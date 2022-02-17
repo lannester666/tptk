@@ -1,7 +1,7 @@
 from .utils import find_shortest_path
 from datetime import timedelta
 import networkx as nx
-from ..common.path import PathEntity, Path
+from common.path import PathEntity, Path
 
 
 def construct_path(rn, mm_traj, routing_weight):

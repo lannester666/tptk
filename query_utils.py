@@ -1,5 +1,5 @@
-from .common.mbr import MBR
-from .common.spatial_func import LAT_PER_METER, LNG_PER_METER, distance
+from common.mbr import MBR
+from common.spatial_func import LAT_PER_METER, LNG_PER_METER, distance
 from datetime import timedelta
 
 

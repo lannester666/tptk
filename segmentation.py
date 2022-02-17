@@ -1,5 +1,5 @@
-from .common.trajectory import Trajectory, get_tid
-from .stay_point_detection import find_first_exceed_max_distance, exceed_max_time
+from common.trajectory import Trajectory, get_tid
+from stay_point_detection import find_first_exceed_max_distance, exceed_max_time
 
 
 class Segmentation:

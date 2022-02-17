@@ -1,5 +1,5 @@
-from .common.trajectory import Trajectory, get_tid
-from .common.spatial_func import distance
+from common.trajectory import Trajectory, get_tid
+from common.spatial_func import distance
 
 
 def find_first_exceed_max_distance(pt_list, cur_idx, max_distance):

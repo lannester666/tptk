@@ -1,5 +1,6 @@
-from .common.spatial_func import distance
-from .common.trajectory import Trajectory
+from common.spatial_func import distance
+from common.trajectory import Trajectory
+import logging
 
 
 class NoiseFilter:
@@ -17,6 +18,7 @@ class HeuristicFilter(NoiseFilter):
         self.max_speed = max_speed
 
     def filter(self, traj):
+        logging.basicConfig(level=logging.DEBUG)
         pt_list = traj.pt_list
         if len(pt_list) <= 1:
             return None

@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 from .spatial_func import distance, SPoint
 from .mbr import MBR
-from ..map_matching.candidate_point import CandidatePoint
+from map_matching.candidate_point import CandidatePoint
 from .spatial_func import cal_loc_along_line
 
 
@@ -119,16 +119,16 @@ class Trajectory:
         idx = self.binary_search_idx(time)
         if idx == -1 or idx == len(self.pt_list) - 1:
             return None
-        if self.pt_list[idx].time == time or (self.pt_list[idx+1].time - self.pt_list[idx].time).total_seconds() == 0:
+        if self.pt_list[idx].time == time or (self.pt_list[idx + 1].time - self.pt_list[idx].time).total_seconds() == 0:
             return SPoint(self.pt_list[idx].lat, self.pt_list[idx].lng)
         else:
             # interpolate location
-            dist_ab = distance(self.pt_list[idx], self.pt_list[idx+1])
+            dist_ab = distance(self.pt_list[idx], self.pt_list[idx + 1])
             if dist_ab == 0:
                 return SPoint(self.pt_list[idx].lat, self.pt_list[idx].lng)
             dist_traveled = dist_ab * (time - self.pt_list[idx].time).total_seconds() / \
-                            (self.pt_list[idx+1].time - self.pt_list[idx].time).total_seconds()
-            return cal_loc_along_line(self.pt_list[idx], self.pt_list[idx+1], dist_traveled / dist_ab)
+                            (self.pt_list[idx + 1].time - self.pt_list[idx].time).total_seconds()
+            return cal_loc_along_line(self.pt_list[idx], self.pt_list[idx + 1], dist_traveled / dist_ab)
 
     def to_wkt(self):
         wkt = 'LINESTRING ('
@@ -208,7 +208,8 @@ def parse_traj_file(input_path, traj_type='raw', extra_fields=None):
                         proj_lng = float(attrs[5])
                         error = float(attrs[6])
                         offset = float(attrs[7])
-                        candi_pt = CandidatePoint(proj_lat, proj_lng, eid, error, offset)
+                        rate = float(attrs[8])
+                        candi_pt = CandidatePoint(proj_lat, proj_lng, eid, error, offset, rate)
                     pt = STPoint(lat, lng, datetime.strptime(attrs[0], time_format), {'candi_pt': candi_pt})
                 pt_list.append(pt)
         if len(pt_list) != 0:
@@ -237,9 +238,10 @@ def store_traj_file(trajs, target_path, traj_type='raw', extra_fields=None):
                 for pt in pt_list:
                     candi_pt = pt.data['candi_pt']
                     if candi_pt is not None:
-                        f.write('{},{},{},{},{},{},{},{}\n'.format(pt.time.strftime(time_format), pt.lat, pt.lng,
-                                                                   candi_pt.eid, candi_pt.lat, candi_pt.lng,
-                                                                   candi_pt.error, candi_pt.offset))
+                        print(candi_pt)
+                        f.write('{},{},{},{},{},{},{},{},{}\n'.format(pt.time.strftime(time_format), pt.lat, pt.lng,
+                                                                      candi_pt.eid, candi_pt.lat, candi_pt.lng,
+                                                                      candi_pt.error, candi_pt.offset, candi_pt.rate))
                     else:
                         f.write('{},{},{},None,None,None,None,None\n'.format(
                             pt.time.strftime(time_format), pt.lat, pt.lng))

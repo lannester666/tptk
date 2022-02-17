@@ -1,0 +1,7746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<osm generator="python" upload="false" version="0.6">
+	<node id="1" lat="36.187447525" lon="117.019129825" version="3">
+		<tag k="id" v="1"/>
+		<tag k="lat" v="36.187447525"/>
+		<tag k="lon" v="117.019129825"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000030]"/>
+	</node>
+	<node id="2" lat="36.18731900689" lon="117.02063755488" version="3">
+		<tag k="id" v="2"/>
+		<tag k="lat" v="36.18731900689"/>
+		<tag k="lon" v="117.02063755488"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000020]"/>
+	</node>
+	<node id="3" lat="36.22386833333" lon="117.0237044" version="3">
+		<tag k="id" v="3"/>
+		<tag k="lat" v="36.22386833333"/>
+		<tag k="lon" v="117.0237044"/>
+	</node>
+	<node id="4" lat="36.1860606" lon="117.02697475" version="3">
+		<tag k="id" v="4"/>
+		<tag k="lat" v="36.1860606"/>
+		<tag k="lon" v="117.02697475"/>
+	</node>
+	<node id="5" lat="36.2222025" lon="117.028612" version="3">
+		<tag k="id" v="5"/>
+		<tag k="lat" v="36.2222025"/>
+		<tag k="lon" v="117.028612"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000001]"/>
+	</node>
+	<node id="6" lat="36.1807774" lon="117.0299769" version="3">
+		<tag k="id" v="6"/>
+		<tag k="lat" v="36.1807774"/>
+		<tag k="lon" v="117.0299769"/>
+	</node>
+	<node id="7" lat="36.18377515" lon="117.0299642" version="3">
+		<tag k="id" v="7"/>
+		<tag k="lat" v="36.18377515"/>
+		<tag k="lon" v="117.0299642"/>
+	</node>
+	<node id="8" lat="36.18531905" lon="117.03133105" version="3">
+		<tag k="id" v="8"/>
+		<tag k="lat" v="36.18531905"/>
+		<tag k="lon" v="117.03133105"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000570]"/>
+	</node>
+	<node id="9" lat="36.18156" lon="117.03188255" version="3">
+		<tag k="id" v="9"/>
+		<tag k="lat" v="36.18156"/>
+		<tag k="lon" v="117.03188255"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000586]"/>
+	</node>
+	<node id="10" lat="36.173452" lon="117.03250355" version="3">
+		<tag k="id" v="10"/>
+		<tag k="lat" v="36.173452"/>
+		<tag k="lon" v="117.03250355"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000579]"/>
+	</node>
+	<node id="11" lat="36.1769503" lon="117.0325001" version="3">
+		<tag k="id" v="11"/>
+		<tag k="lat" v="36.1769503"/>
+		<tag k="lon" v="117.0325001"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000587]"/>
+	</node>
+	<node id="12" lat="36.1776445" lon="117.0341393" version="3">
+		<tag k="id" v="12"/>
+		<tag k="lat" v="36.1776445"/>
+		<tag k="lon" v="117.0341393"/>
+	</node>
+	<node id="13" lat="36.1701419" lon="117.03462655" version="3">
+		<tag k="id" v="13"/>
+		<tag k="lat" v="36.1701419"/>
+		<tag k="lon" v="117.03462655"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000576]"/>
+	</node>
+	<node id="14" lat="36.17946013333" lon="117.0355769" version="3">
+		<tag k="id" v="14"/>
+		<tag k="lat" v="36.17946013333"/>
+		<tag k="lon" v="117.0355769"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000444]"/>
+	</node>
+	<node id="15" lat="36.18221105" lon="117.0356658" version="3">
+		<tag k="id" v="15"/>
+		<tag k="lat" v="36.18221105"/>
+		<tag k="lon" v="117.0356658"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000443]"/>
+	</node>
+	<node id="16" lat="36.1845792" lon="117.0356707" version="3">
+		<tag k="id" v="16"/>
+		<tag k="lat" v="36.1845792"/>
+		<tag k="lon" v="117.0356707"/>
+	</node>
+	<node id="17" lat="36.1751142" lon="117.0364139" version="3">
+		<tag k="id" v="17"/>
+		<tag k="lat" v="36.1751142"/>
+		<tag k="lon" v="117.0364139"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000191]"/>
+	</node>
+	<node id="18" lat="36.16635165" lon="117.03713355" version="3">
+		<tag k="id" v="18"/>
+		<tag k="lat" v="36.16635165"/>
+		<tag k="lon" v="117.03713355"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000584]"/>
+	</node>
+	<node id="19" lat="36.2215805" lon="117.0375735" version="3">
+		<tag k="id" v="19"/>
+		<tag k="lat" v="36.2215805"/>
+		<tag k="lon" v="117.0375735"/>
+	</node>
+	<node id="20" lat="36.17210293333" lon="117.03908796667" version="3">
+		<tag k="id" v="20"/>
+		<tag k="lat" v="36.17210293333"/>
+		<tag k="lon" v="117.03908796667"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000577]"/>
+	</node>
+	<node id="21" lat="36.1766902" lon="117.040661475" version="3">
+		<tag k="id" v="21"/>
+		<tag k="lat" v="36.1766902"/>
+		<tag k="lon" v="117.040661475"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000019]"/>
+	</node>
+	<node id="22" lat="36.16996915" lon="117.04098445" version="3">
+		<tag k="id" v="22"/>
+		<tag k="lat" v="36.16996915"/>
+		<tag k="lon" v="117.04098445"/>
+	</node>
+	<node id="23" lat="36.1681002" lon="117.0426106" version="3">
+		<tag k="id" v="23"/>
+		<tag k="lat" v="36.1681002"/>
+		<tag k="lon" v="117.0426106"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000580]"/>
+	</node>
+	<node id="24" lat="36.1848422" lon="117.0433609" version="3">
+		<tag k="id" v="24"/>
+		<tag k="lat" v="36.1848422"/>
+		<tag k="lon" v="117.0433609"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000032]"/>
+	</node>
+	<node id="25" lat="36.1821558" lon="117.0442088" version="3">
+		<tag k="id" v="25"/>
+		<tag k="lat" v="36.1821558"/>
+		<tag k="lon" v="117.0442088"/>
+	</node>
+	<node id="26" lat="36.1723792" lon="117.0456838" version="3">
+		<tag k="id" v="26"/>
+		<tag k="lat" v="36.1723792"/>
+		<tag k="lon" v="117.0456838"/>
+	</node>
+	<node id="27" lat="36.16980775" lon="117.04804965" version="3">
+		<tag k="id" v="27"/>
+		<tag k="lat" v="36.16980775"/>
+		<tag k="lon" v="117.04804965"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000583]"/>
+	</node>
+	<node id="28" lat="36.18559557183" lon="117.05027170789" version="3">
+		<tag k="id" v="28"/>
+		<tag k="lat" v="36.18559557183"/>
+		<tag k="lon" v="117.05027170789"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000031, 370911000029, 370911000508, 370911000491]"/>
+	</node>
+	<node id="29" lat="36.20486585656" lon="117.05101931249" version="3">
+		<tag k="id" v="29"/>
+		<tag k="lat" v="36.20486585656"/>
+		<tag k="lon" v="117.05101931249"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000010, 370911000003]"/>
+	</node>
+	<node id="30" lat="36.170955425" lon="117.05154915" version="3">
+		<tag k="id" v="30"/>
+		<tag k="lat" v="36.170955425"/>
+		<tag k="lon" v="117.05154915"/>
+	</node>
+	<node id="31" lat="36.2030548" lon="117.0557143" version="3">
+		<tag k="id" v="31"/>
+		<tag k="lat" v="36.2030548"/>
+		<tag k="lon" v="117.0557143"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000112]"/>
+	</node>
+	<node id="32" lat="36.2134356" lon="117.0567075" version="3">
+		<tag k="id" v="32"/>
+		<tag k="lat" v="36.2134356"/>
+		<tag k="lon" v="117.0567075"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000273]"/>
+	</node>
+	<node id="33" lat="36.18632485" lon="117.0586852" version="3">
+		<tag k="id" v="33"/>
+		<tag k="lat" v="36.18632485"/>
+		<tag k="lon" v="117.0586852"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000314]"/>
+	</node>
+	<node id="34" lat="36.20203155" lon="117.05917465" version="3">
+		<tag k="id" v="34"/>
+		<tag k="lat" v="36.20203155"/>
+		<tag k="lon" v="117.05917465"/>
+	</node>
+	<node id="35" lat="36.1939768" lon="117.0598625" version="3">
+		<tag k="id" v="35"/>
+		<tag k="lat" v="36.1939768"/>
+		<tag k="lon" v="117.0598625"/>
+	</node>
+	<node id="36" lat="36.212498" lon="117.059744" version="3">
+		<tag k="id" v="36"/>
+		<tag k="lat" v="36.212498"/>
+		<tag k="lon" v="117.059744"/>
+	</node>
+	<node id="37" lat="36.20101985" lon="117.0628138" version="3">
+		<tag k="id" v="37"/>
+		<tag k="lat" v="36.20101985"/>
+		<tag k="lon" v="117.0628138"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000011]"/>
+	</node>
+	<node id="38" lat="36.20048163333" lon="117.06456256667" version="3">
+		<tag k="id" v="38"/>
+		<tag k="lat" v="36.20048163333"/>
+		<tag k="lon" v="117.06456256667"/>
+	</node>
+	<node id="39" lat="36.1919238" lon="117.06803405" version="3">
+		<tag k="id" v="39"/>
+		<tag k="lat" v="36.1919238"/>
+		<tag k="lon" v="117.06803405"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[601049999501, 370911000023]"/>
+	</node>
+	<node id="40" lat="36.18794615" lon="117.06836325" version="3">
+		<tag k="id" v="40"/>
+		<tag k="lat" v="36.18794615"/>
+		<tag k="lon" v="117.06836325"/>
+	</node>
+	<node id="41" lat="36.19935173333" lon="117.0686403" version="3">
+		<tag k="id" v="41"/>
+		<tag k="lat" v="36.19935173333"/>
+		<tag k="lon" v="117.0686403"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000042]"/>
+	</node>
+	<node id="42" lat="36.1818966965" lon="117.06880399194" version="3">
+		<tag k="id" v="42"/>
+		<tag k="lat" v="36.1818966965"/>
+		<tag k="lon" v="117.06880399194"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000274]"/>
+	</node>
+	<node id="43" lat="36.1829913" lon="117.06878185" version="3">
+		<tag k="id" v="43"/>
+		<tag k="lat" v="36.1829913"/>
+		<tag k="lon" v="117.06878185"/>
+	</node>
+	<node id="44" lat="36.1852192" lon="117.0689271" version="3">
+		<tag k="id" v="44"/>
+		<tag k="lat" v="36.1852192"/>
+		<tag k="lon" v="117.0689271"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000002]"/>
+	</node>
+	<node id="45" lat="36.178444125" lon="117.069567425" version="3">
+		<tag k="id" v="45"/>
+		<tag k="lat" v="36.178444125"/>
+		<tag k="lon" v="117.069567425"/>
+	</node>
+	<node id="46" lat="36.1848138" lon="117.07023775" version="3">
+		<tag k="id" v="46"/>
+		<tag k="lat" v="36.1848138"/>
+		<tag k="lon" v="117.07023775"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000094]"/>
+	</node>
+	<node id="47" lat="36.1765612" lon="117.0752268" version="3">
+		<tag k="id" v="47"/>
+		<tag k="lat" v="36.1765612"/>
+		<tag k="lon" v="117.0752268"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000246]"/>
+	</node>
+	<node id="48" lat="36.17850535" lon="117.07529535" version="3">
+		<tag k="id" v="48"/>
+		<tag k="lat" v="36.17850535"/>
+		<tag k="lon" v="117.07529535"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000391]"/>
+	</node>
+	<node id="49" lat="36.183575" lon="117.0754669" version="3">
+		<tag k="id" v="49"/>
+		<tag k="lat" v="36.183575"/>
+		<tag k="lon" v="117.0754669"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000313]"/>
+	</node>
+	<node id="50" lat="36.19733479523" lon="117.07619323965" version="3">
+		<tag k="id" v="50"/>
+		<tag k="lat" v="36.19733479523"/>
+		<tag k="lon" v="117.07619323965"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000038, 370901000565]"/>
+	</node>
+	<node id="51" lat="36.17078466521" lon="117.07728889451" version="3">
+		<tag k="id" v="51"/>
+		<tag k="lat" v="36.17078466521"/>
+		<tag k="lon" v="117.07728889451"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000330]"/>
+	</node>
+	<node id="52" lat="36.1901794" lon="117.079142" version="3">
+		<tag k="id" v="52"/>
+		<tag k="lat" v="36.1901794"/>
+		<tag k="lon" v="117.079142"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000520]"/>
+	</node>
+	<node id="53" lat="36.19646" lon="117.07913135" version="3">
+		<tag k="id" v="53"/>
+		<tag k="lat" v="36.19646"/>
+		<tag k="lon" v="117.07913135"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000049]"/>
+	</node>
+	<node id="54" lat="36.2039477" lon="117.0791774" version="3">
+		<tag k="id" v="54"/>
+		<tag k="lat" v="36.2039477"/>
+		<tag k="lon" v="117.0791774"/>
+	</node>
+	<node id="55" lat="36.1710919" lon="117.0795745" version="3">
+		<tag k="id" v="55"/>
+		<tag k="lat" v="36.1710919"/>
+		<tag k="lon" v="117.0795745"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000262]"/>
+	</node>
+	<node id="56" lat="36.1768505" lon="117.0794417" version="3">
+		<tag k="id" v="56"/>
+		<tag k="lat" v="36.1768505"/>
+		<tag k="lon" v="117.0794417"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000238]"/>
+	</node>
+	<node id="57" lat="36.1827757" lon="117.07932015" version="3">
+		<tag k="id" v="57"/>
+		<tag k="lat" v="36.1827757"/>
+		<tag k="lon" v="117.07932015"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000292]"/>
+	</node>
+	<node id="58" lat="36.1941531" lon="117.0803938" version="3">
+		<tag k="id" v="58"/>
+		<tag k="lat" v="36.1941531"/>
+		<tag k="lon" v="117.0803938"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000515]"/>
+	</node>
+	<node id="59" lat="36.1571761" lon="117.0808726" version="3">
+		<tag k="id" v="59"/>
+		<tag k="lat" v="36.1571761"/>
+		<tag k="lon" v="117.0808726"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000305, 370901000591]"/>
+	</node>
+	<node id="60" lat="36.1940975" lon="117.0811999" version="3">
+		<tag k="id" v="60"/>
+		<tag k="lat" v="36.1940975"/>
+		<tag k="lon" v="117.0811999"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000516]"/>
+	</node>
+	<node id="61" lat="36.18275785" lon="117.08277585" version="3">
+		<tag k="id" v="61"/>
+		<tag k="lat" v="36.18275785"/>
+		<tag k="lon" v="117.08277585"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000290, 370901000291]"/>
+	</node>
+	<node id="62" lat="36.1901714" lon="117.08260385" version="3">
+		<tag k="id" v="62"/>
+		<tag k="lat" v="36.1901714"/>
+		<tag k="lon" v="117.08260385"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000517]"/>
+	</node>
+	<node id="63" lat="36.1955184" lon="117.0826283" version="3">
+		<tag k="id" v="63"/>
+		<tag k="lat" v="36.1955184"/>
+		<tag k="lon" v="117.0826283"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000048]"/>
+	</node>
+	<node id="64" lat="36.1994417" lon="117.0826591" version="3">
+		<tag k="id" v="64"/>
+		<tag k="lat" v="36.1994417"/>
+		<tag k="lon" v="117.0826591"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000073]"/>
+	</node>
+	<node id="65" lat="36.203897" lon="117.0826874" version="3">
+		<tag k="id" v="65"/>
+		<tag k="lat" v="36.203897"/>
+		<tag k="lon" v="117.0826874"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000351]"/>
+	</node>
+	<node id="66" lat="36.1712158" lon="117.0830726" version="3">
+		<tag k="id" v="66"/>
+		<tag k="lat" v="36.1712158"/>
+		<tag k="lon" v="117.0830726"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000263]"/>
+	</node>
+	<node id="67" lat="36.17720025" lon="117.08291845" version="3">
+		<tag k="id" v="67"/>
+		<tag k="lat" v="36.17720025"/>
+		<tag k="lon" v="117.08291845"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000239]"/>
+	</node>
+	<node id="68" lat="36.19471233543" lon="117.0863294777" version="3">
+		<tag k="id" v="68"/>
+		<tag k="lat" v="36.19471233543"/>
+		<tag k="lon" v="117.0863294777"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000564]"/>
+	</node>
+	<node id="69" lat="36.1943082" lon="117.0893828" version="3">
+		<tag k="id" v="69"/>
+		<tag k="lat" v="36.1943082"/>
+		<tag k="lon" v="117.0893828"/>
+	</node>
+	<node id="70" lat="36.1878414" lon="117.0899914" version="3">
+		<tag k="id" v="70"/>
+		<tag k="lat" v="36.1878414"/>
+		<tag k="lon" v="117.0899914"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000519]"/>
+	</node>
+	<node id="71" lat="36.17789945" lon="117.090523275" version="3">
+		<tag k="id" v="71"/>
+		<tag k="lat" v="36.17789945"/>
+		<tag k="lon" v="117.090523275"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000240]"/>
+	</node>
+	<node id="72" lat="36.183314275" lon="117.0902351" version="3">
+		<tag k="id" v="72"/>
+		<tag k="lat" v="36.183314275"/>
+		<tag k="lon" v="117.0902351"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000096]"/>
+	</node>
+	<node id="73" lat="36.1936991" lon="117.0900871" version="3">
+		<tag k="id" v="73"/>
+		<tag k="lat" v="36.1936991"/>
+		<tag k="lon" v="117.0900871"/>
+	</node>
+	<node id="74" lat="36.19447145" lon="117.09018825" version="3">
+		<tag k="id" v="74"/>
+		<tag k="lat" v="36.19447145"/>
+		<tag k="lon" v="117.09018825"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000054]"/>
+	</node>
+	<node id="75" lat="36.17132775" lon="117.0908253" version="3">
+		<tag k="id" v="75"/>
+		<tag k="lat" v="36.17132775"/>
+		<tag k="lon" v="117.0908253"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000091]"/>
+	</node>
+	<node id="76" lat="36.19417275" lon="117.0907677" version="3">
+		<tag k="id" v="76"/>
+		<tag k="lat" v="36.19417275"/>
+		<tag k="lon" v="117.0907677"/>
+	</node>
+	<node id="77" lat="36.19413539901" lon="117.0914701141" version="3">
+		<tag k="id" v="77"/>
+		<tag k="lat" v="36.19413539901"/>
+		<tag k="lon" v="117.0914701141"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000563]"/>
+	</node>
+	<node id="78" lat="36.193264" lon="117.09317835" version="3">
+		<tag k="id" v="78"/>
+		<tag k="lat" v="36.193264"/>
+		<tag k="lon" v="117.09317835"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000037]"/>
+	</node>
+	<node id="79" lat="36.18373095" lon="117.0953108" version="3">
+		<tag k="id" v="79"/>
+		<tag k="lat" v="36.18373095"/>
+		<tag k="lon" v="117.0953108"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000216]"/>
+	</node>
+	<node id="80" lat="36.1785111" lon="117.09576635" version="3">
+		<tag k="id" v="80"/>
+		<tag k="lat" v="36.1785111"/>
+		<tag k="lon" v="117.09576635"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000241]"/>
+	</node>
+	<node id="81" lat="36.19148019226" lon="117.09743471948" version="3">
+		<tag k="id" v="81"/>
+		<tag k="lat" v="36.19148019226"/>
+		<tag k="lon" v="117.09743471948"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000562]"/>
+	</node>
+	<node id="82" lat="36.17166442459" lon="117.09939483735" version="3">
+		<tag k="id" v="82"/>
+		<tag k="lat" v="36.17166442459"/>
+		<tag k="lon" v="117.09939483735"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000328, 370901000264, 370901000329]"/>
+	</node>
+	<node id="83" lat="36.19086185" lon="117.09928435" version="3">
+		<tag k="id" v="83"/>
+		<tag k="lat" v="36.19086185"/>
+		<tag k="lon" v="117.09928435"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000030]"/>
+	</node>
+	<node id="84" lat="36.2016401" lon="117.0995583" version="3">
+		<tag k="id" v="84"/>
+		<tag k="lat" v="36.2016401"/>
+		<tag k="lon" v="117.0995583"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000393]"/>
+	</node>
+	<node id="85" lat="36.1924279" lon="117.09978" version="3">
+		<tag k="id" v="85"/>
+		<tag k="lat" v="36.1924279"/>
+		<tag k="lon" v="117.09978"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000354]"/>
+	</node>
+	<node id="86" lat="36.1953237" lon="117.0997484" version="3">
+		<tag k="id" v="86"/>
+		<tag k="lat" v="36.1953237"/>
+		<tag k="lon" v="117.0997484"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000102]"/>
+	</node>
+	<node id="87" lat="36.198983" lon="117.0996358" version="3">
+		<tag k="id" v="87"/>
+		<tag k="lat" v="36.198983"/>
+		<tag k="lon" v="117.0996358"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000068]"/>
+	</node>
+	<node id="88" lat="36.19005706513" lon="117.10166952409" version="3">
+		<tag k="id" v="88"/>
+		<tag k="lat" v="36.19005706513"/>
+		<tag k="lon" v="117.10166952409"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000561]"/>
+	</node>
+	<node id="89" lat="36.2056888" lon="117.1023389" version="3">
+		<tag k="id" v="89"/>
+		<tag k="lat" v="36.2056888"/>
+		<tag k="lon" v="117.1023389"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000060]"/>
+	</node>
+	<node id="90" lat="36.15600715" lon="117.10436355" version="3">
+		<tag k="id" v="90"/>
+		<tag k="lat" v="36.15600715"/>
+		<tag k="lon" v="117.10436355"/>
+	</node>
+	<node id="91" lat="36.1894086" lon="117.10473685" version="3">
+		<tag k="id" v="91"/>
+		<tag k="lat" v="36.1894086"/>
+		<tag k="lon" v="117.10473685"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000036, 370901000405]"/>
+	</node>
+	<node id="92" lat="36.2024383" lon="117.1051109" version="3">
+		<tag k="id" v="92"/>
+		<tag k="lat" v="36.2024383"/>
+		<tag k="lon" v="117.1051109"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000106]"/>
+	</node>
+	<node id="93" lat="36.1572817" lon="117.1064034" version="3">
+		<tag k="id" v="93"/>
+		<tag k="lat" v="36.1572817"/>
+		<tag k="lon" v="117.1064034"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000546]"/>
+	</node>
+	<node id="94" lat="36.19215847778" lon="117.10684736667" version="3">
+		<tag k="id" v="94"/>
+		<tag k="lat" v="36.19215847778"/>
+		<tag k="lon" v="117.10684736667"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000015]"/>
+	</node>
+	<node id="95" lat="36.1993364" lon="117.106242" version="3">
+		<tag k="id" v="95"/>
+		<tag k="lat" v="36.1993364"/>
+		<tag k="lon" v="117.106242"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000070]"/>
+	</node>
+	<node id="96" lat="36.147532" lon="117.10691165" version="3">
+		<tag k="id" v="96"/>
+		<tag k="lat" v="36.147532"/>
+		<tag k="lon" v="117.10691165"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000010]"/>
+	</node>
+	<node id="97" lat="36.17947295" lon="117.1066789" version="3">
+		<tag k="id" v="97"/>
+		<tag k="lat" v="36.17947295"/>
+		<tag k="lon" v="117.1066789"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000086]"/>
+	</node>
+	<node id="98" lat="36.18737724167" lon="117.10678746667" version="3">
+		<tag k="id" v="98"/>
+		<tag k="lat" v="36.18737724167"/>
+		<tag k="lon" v="117.10678746667"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000477]"/>
+	</node>
+	<node id="99" lat="36.18909739167" lon="117.1068216" version="3">
+		<tag k="id" v="99"/>
+		<tag k="lat" v="36.18909739167"/>
+		<tag k="lon" v="117.1068216"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000039]"/>
+	</node>
+	<node id="100" lat="36.19068749838" lon="117.10678697886" version="3">
+		<tag k="id" v="100"/>
+		<tag k="lat" v="36.19068749838"/>
+		<tag k="lon" v="117.10678697886"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000567]"/>
+	</node>
+	<node id="101" lat="36.1957003" lon="117.1068246" version="3">
+		<tag k="id" v="101"/>
+		<tag k="lat" v="36.1957003"/>
+		<tag k="lon" v="117.1068246"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000103]"/>
+	</node>
+	<node id="102" lat="36.17571509692" lon="117.1089411747" version="3">
+		<tag k="id" v="102"/>
+		<tag k="lat" v="36.17571509692"/>
+		<tag k="lon" v="117.1089411747"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000283]"/>
+	</node>
+	<node id="103" lat="36.1706828" lon="117.109970525" version="3">
+		<tag k="id" v="103"/>
+		<tag k="lat" v="36.1706828"/>
+		<tag k="lon" v="117.109970525"/>
+	</node>
+	<node id="104" lat="36.16835075" lon="117.11013955" version="3">
+		<tag k="id" v="104"/>
+		<tag k="lat" v="36.16835075"/>
+		<tag k="lon" v="117.11013955"/>
+	</node>
+	<node id="105" lat="36.17224255" lon="117.1108939" version="3">
+		<tag k="id" v="105"/>
+		<tag k="lat" v="36.17224255"/>
+		<tag k="lon" v="117.1108939"/>
+	</node>
+	<node id="106" lat="36.2059646" lon="117.1107795" version="3">
+		<tag k="id" v="106"/>
+		<tag k="lat" v="36.2059646"/>
+		<tag k="lon" v="117.1107795"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000109]"/>
+	</node>
+	<node id="107" lat="36.17013580312" lon="117.11124049558" version="3">
+		<tag k="id" v="107"/>
+		<tag k="lat" v="36.17013580312"/>
+		<tag k="lon" v="117.11124049558"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000266, 370901000265]"/>
+	</node>
+	<node id="108" lat="36.2000715" lon="117.1108419" version="3">
+		<tag k="id" v="108"/>
+		<tag k="lat" v="36.2000715"/>
+		<tag k="lon" v="117.1108419"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000071]"/>
+	</node>
+	<node id="109" lat="36.1898506" lon="117.1134824" version="3">
+		<tag k="id" v="109"/>
+		<tag k="lat" v="36.1898506"/>
+		<tag k="lon" v="117.1134824"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000051]"/>
+	</node>
+	<node id="110" lat="36.18599885" lon="117.11374495" version="3">
+		<tag k="id" v="110"/>
+		<tag k="lat" v="36.18599885"/>
+		<tag k="lon" v="117.11374495"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000005]"/>
+	</node>
+	<node id="111" lat="36.2010078" lon="117.1141831" version="3">
+		<tag k="id" v="111"/>
+		<tag k="lat" v="36.2010078"/>
+		<tag k="lon" v="117.1141831"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000072]"/>
+	</node>
+	<node id="112" lat="36.14673536024" lon="117.11470565105" version="3">
+		<tag k="id" v="112"/>
+		<tag k="lat" v="36.14673536024"/>
+		<tag k="lon" v="117.11470565105"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000530]"/>
+	</node>
+	<node id="113" lat="36.1814375" lon="117.11455555" version="3">
+		<tag k="id" v="113"/>
+		<tag k="lat" v="36.1814375"/>
+		<tag k="lon" v="117.11455555"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000084]"/>
+	</node>
+	<node id="114" lat="36.196251" lon="117.1157655" version="3">
+		<tag k="id" v="114"/>
+		<tag k="lat" v="36.196251"/>
+		<tag k="lon" v="117.1157655"/>
+	</node>
+	<node id="115" lat="36.16402658811" lon="117.1173416367" version="3">
+		<tag k="id" v="115"/>
+		<tag k="lat" v="36.16402658811"/>
+		<tag k="lon" v="117.1173416367"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000302, 370901000333]"/>
+	</node>
+	<node id="116" lat="36.194685" lon="117.1172556" version="3">
+		<tag k="id" v="116"/>
+		<tag k="lat" v="36.194685"/>
+		<tag k="lon" v="117.1172556"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000016]"/>
+	</node>
+	<node id="117" lat="36.1953581" lon="117.1180977" version="3">
+		<tag k="id" v="117"/>
+		<tag k="lat" v="36.1953581"/>
+		<tag k="lon" v="117.1180977"/>
+	</node>
+	<node id="118" lat="36.19591435" lon="117.1184108" version="3">
+		<tag k="id" v="118"/>
+		<tag k="lat" v="36.19591435"/>
+		<tag k="lon" v="117.1184108"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000017]"/>
+	</node>
+	<node id="119" lat="36.19064262352" lon="117.11997403905" version="3">
+		<tag k="id" v="119"/>
+		<tag k="lat" v="36.19064262352"/>
+		<tag k="lon" v="117.11997403905"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000040, 370901000420, 370901000593, 370901000560, 370901000594]"/>
+	</node>
+	<node id="120" lat="36.18342276228" lon="117.12033969557" version="3">
+		<tag k="id" v="120"/>
+		<tag k="lat" v="36.18342276228"/>
+		<tag k="lon" v="117.12033969557"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[711200000001, 370902000078, 370902000080]"/>
+	</node>
+	<node id="121" lat="36.1619715" lon="117.120448" version="3">
+		<tag k="id" v="121"/>
+		<tag k="lat" v="36.1619715"/>
+		<tag k="lon" v="117.120448"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000340]"/>
+	</node>
+	<node id="122" lat="36.1979298" lon="117.1216427" version="3">
+		<tag k="id" v="122"/>
+		<tag k="lat" v="36.1979298"/>
+		<tag k="lon" v="117.1216427"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000018]"/>
+	</node>
+	<node id="123" lat="36.2066917" lon="117.1225096" version="3">
+		<tag k="id" v="123"/>
+		<tag k="lat" v="36.2066917"/>
+		<tag k="lon" v="117.1225096"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000063]"/>
+	</node>
+	<node id="124" lat="36.1773096" lon="117.1230933" version="3">
+		<tag k="id" v="124"/>
+		<tag k="lat" v="36.1773096"/>
+		<tag k="lon" v="117.1230933"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000355]"/>
+	</node>
+	<node id="125" lat="36.1908966" lon="117.12293905" version="3">
+		<tag k="id" v="125"/>
+		<tag k="lat" v="36.1908966"/>
+		<tag k="lon" v="117.12293905"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000041]"/>
+	</node>
+	<node id="126" lat="36.18343865" lon="117.1232728" version="3">
+		<tag k="id" v="126"/>
+		<tag k="lat" v="36.18343865"/>
+		<tag k="lon" v="117.1232728"/>
+	</node>
+	<node id="127" lat="36.1874528" lon="117.123519" version="3">
+		<tag k="id" v="127"/>
+		<tag k="lat" v="36.1874528"/>
+		<tag k="lon" v="117.123519"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000004]"/>
+	</node>
+	<node id="128" lat="36.14615355" lon="117.12422145" version="3">
+		<tag k="id" v="128"/>
+		<tag k="lat" v="36.14615355"/>
+		<tag k="lon" v="117.12422145"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000529]"/>
+	</node>
+	<node id="129" lat="36.20205245" lon="117.1242254" version="3">
+		<tag k="id" v="129"/>
+		<tag k="lat" v="36.20205245"/>
+		<tag k="lon" v="117.1242254"/>
+	</node>
+	<node id="130" lat="36.1988116" lon="117.1245582" version="3">
+		<tag k="id" v="130"/>
+		<tag k="lat" v="36.1988116"/>
+		<tag k="lon" v="117.1245582"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000010]"/>
+	</node>
+	<node id="131" lat="36.19115358" lon="117.12566076" version="3">
+		<tag k="id" v="131"/>
+		<tag k="lat" v="36.19115358"/>
+		<tag k="lon" v="117.12566076"/>
+	</node>
+	<node id="132" lat="36.2050414" lon="117.126006" version="3">
+		<tag k="id" v="132"/>
+		<tag k="lat" v="36.2050414"/>
+		<tag k="lon" v="117.126006"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000400]"/>
+	</node>
+	<node id="133" lat="36.1833443" lon="117.1263333" version="3">
+		<tag k="id" v="133"/>
+		<tag k="lat" v="36.1833443"/>
+		<tag k="lon" v="117.1263333"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000079]"/>
+	</node>
+	<node id="134" lat="36.18763" lon="117.1261196" version="3">
+		<tag k="id" v="134"/>
+		<tag k="lat" v="36.18763"/>
+		<tag k="lon" v="117.1261196"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000267, 370901000410]"/>
+	</node>
+	<node id="135" lat="36.177272" lon="117.1267977" version="3">
+		<tag k="id" v="135"/>
+		<tag k="lat" v="36.177272"/>
+		<tag k="lon" v="117.1267977"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000270, 370901000414]"/>
+	</node>
+	<node id="136" lat="36.1767965" lon="117.1268516" version="3">
+		<tag k="id" v="136"/>
+		<tag k="lat" v="36.1767965"/>
+		<tag k="lon" v="117.1268516"/>
+	</node>
+	<node id="137" lat="36.2014546" lon="117.12784636667" version="3">
+		<tag k="id" v="137"/>
+		<tag k="lat" v="36.2014546"/>
+		<tag k="lon" v="117.12784636667"/>
+	</node>
+	<node id="138" lat="36.14584563956" lon="117.12878904613" version="3">
+		<tag k="id" v="138"/>
+		<tag k="lat" v="36.14584563956"/>
+		<tag k="lon" v="117.12878904613"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000528]"/>
+	</node>
+	<node id="139" lat="36.19151353401" lon="117.12952277756" version="3">
+		<tag k="id" v="139"/>
+		<tag k="lat" v="36.19151353401"/>
+		<tag k="lon" v="117.12952277756"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000043, 370901000476, 370902000052]"/>
+	</node>
+	<node id="140" lat="36.1618594" lon="117.13001128923" version="3">
+		<tag k="id" v="140"/>
+		<tag k="lat" v="36.1618594"/>
+		<tag k="lon" v="117.13001128923"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000315, 370901000332]"/>
+	</node>
+	<node id="141" lat="36.1983221" lon="117.129897" version="3">
+		<tag k="id" v="141"/>
+		<tag k="lat" v="36.1983221"/>
+		<tag k="lon" v="117.129897"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000409]"/>
+	</node>
+	<node id="142" lat="36.19163905" lon="117.13151185" version="3">
+		<tag k="id" v="142"/>
+		<tag k="lat" v="36.19163905"/>
+		<tag k="lon" v="117.13151185"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000034]"/>
+	</node>
+	<node id="143" lat="36.1880935" lon="117.1318248" version="3">
+		<tag k="id" v="143"/>
+		<tag k="lat" v="36.1880935"/>
+		<tag k="lon" v="117.1318248"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000002]"/>
+	</node>
+	<node id="144" lat="36.183036" lon="117.13207005" version="3">
+		<tag k="id" v="144"/>
+		<tag k="lat" v="36.183036"/>
+		<tag k="lon" v="117.13207005"/>
+	</node>
+	<node id="145" lat="36.1769514" lon="117.1324502" version="3">
+		<tag k="id" v="145"/>
+		<tag k="lat" v="36.1769514"/>
+		<tag k="lon" v="117.1324502"/>
+	</node>
+	<node id="146" lat="36.16177535" lon="117.1338052" version="3">
+		<tag k="id" v="146"/>
+		<tag k="lat" v="36.16177535"/>
+		<tag k="lon" v="117.1338052"/>
+	</node>
+	<node id="147" lat="36.18295916435" lon="117.13370780957" version="3">
+		<tag k="id" v="147"/>
+		<tag k="lat" v="36.18295916435"/>
+		<tag k="lon" v="117.13370780957"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000076, 370902000083]"/>
+	</node>
+	<node id="148" lat="36.19175618853" lon="117.13366471573" version="3">
+		<tag k="id" v="148"/>
+		<tag k="lat" v="36.19175618853"/>
+		<tag k="lon" v="117.13366471573"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000575, 370901000554]"/>
+	</node>
+	<node id="149" lat="36.1975588" lon="117.1340206" version="3">
+		<tag k="id" v="149"/>
+		<tag k="lat" v="36.1975588"/>
+		<tag k="lon" v="117.1340206"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000022]"/>
+	</node>
+	<node id="150" lat="36.20593893333" lon="117.1341138" version="3">
+		<tag k="id" v="150"/>
+		<tag k="lat" v="36.20593893333"/>
+		<tag k="lon" v="117.1341138"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000349]"/>
+	</node>
+	<node id="151" lat="36.20233905" lon="117.1348286" version="3">
+		<tag k="id" v="151"/>
+		<tag k="lat" v="36.20233905"/>
+		<tag k="lon" v="117.1348286"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000282]"/>
+	</node>
+	<node id="152" lat="36.1975744" lon="117.1354814" version="3">
+		<tag k="id" v="152"/>
+		<tag k="lat" v="36.1975744"/>
+		<tag k="lon" v="117.1354814"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000011]"/>
+	</node>
+	<node id="153" lat="36.1829897" lon="117.139693" version="3">
+		<tag k="id" v="153"/>
+		<tag k="lat" v="36.1829897"/>
+		<tag k="lon" v="117.139693"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000085]"/>
+	</node>
+	<node id="154" lat="36.1893945" lon="117.1398443" version="3">
+		<tag k="id" v="154"/>
+		<tag k="lat" v="36.1893945"/>
+		<tag k="lon" v="117.1398443"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000029]"/>
+	</node>
+	<node id="155" lat="36.1922152" lon="117.13993375" version="3">
+		<tag k="id" v="155"/>
+		<tag k="lat" v="36.1922152"/>
+		<tag k="lon" v="117.13993375"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000053]"/>
+	</node>
+	<node id="156" lat="36.19351564" lon="117.14004498" version="3">
+		<tag k="id" v="156"/>
+		<tag k="lat" v="36.19351564"/>
+		<tag k="lon" v="117.14004498"/>
+	</node>
+	<node id="157" lat="36.21076438" lon="117.14160714" version="3">
+		<tag k="id" v="157"/>
+		<tag k="lat" v="36.21076438"/>
+		<tag k="lon" v="117.14160714"/>
+	</node>
+	<node id="158" lat="36.2118291" lon="117.1414888" version="3">
+		<tag k="id" v="158"/>
+		<tag k="lat" v="36.2118291"/>
+		<tag k="lon" v="117.1414888"/>
+	</node>
+	<node id="159" lat="36.2081833" lon="117.14252943333" version="3">
+		<tag k="id" v="159"/>
+		<tag k="lat" v="36.2081833"/>
+		<tag k="lon" v="117.14252943333"/>
+	</node>
+	<node id="160" lat="36.14555495" lon="117.1429318" version="3">
+		<tag k="id" v="160"/>
+		<tag k="lat" v="36.14555495"/>
+		<tag k="lon" v="117.1429318"/>
+	</node>
+	<node id="161" lat="36.192479" lon="117.1427355" version="3">
+		<tag k="id" v="161"/>
+		<tag k="lat" v="36.192479"/>
+		<tag k="lon" v="117.1427355"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000032]"/>
+	</node>
+	<node id="162" lat="36.194091" lon="117.1426893" version="3">
+		<tag k="id" v="162"/>
+		<tag k="lat" v="36.194091"/>
+		<tag k="lon" v="117.1426893"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000098]"/>
+	</node>
+	<node id="163" lat="36.1977502" lon="117.1425606" version="3">
+		<tag k="id" v="163"/>
+		<tag k="lat" v="36.1977502"/>
+		<tag k="lon" v="117.1425606"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000009]"/>
+	</node>
+	<node id="164" lat="36.16166153477" lon="117.1429375286" version="3">
+		<tag k="id" v="164"/>
+		<tag k="lat" v="36.16166153477"/>
+		<tag k="lon" v="117.1429375286"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000318]"/>
+	</node>
+	<node id="165" lat="36.145510125" lon="117.14426975" version="3">
+		<tag k="id" v="165"/>
+		<tag k="lat" v="36.145510125"/>
+		<tag k="lon" v="117.14426975"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000596]"/>
+	</node>
+	<node id="166" lat="36.14959811174" lon="117.14446481899" version="3">
+		<tag k="id" v="166"/>
+		<tag k="lat" v="36.14959811174"/>
+		<tag k="lon" v="117.14446481899"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000595, 370901000598]"/>
+	</node>
+	<node id="167" lat="36.16174675" lon="117.14463195" version="3">
+		<tag k="id" v="167"/>
+		<tag k="lat" v="36.16174675"/>
+		<tag k="lon" v="117.14463195"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000319]"/>
+	</node>
+	<node id="168" lat="36.1768083" lon="117.1446022" version="3">
+		<tag k="id" v="168"/>
+		<tag k="lat" v="36.1768083"/>
+		<tag k="lon" v="117.1446022"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000276]"/>
+	</node>
+	<node id="169" lat="36.1828583" lon="117.1446618" version="3">
+		<tag k="id" v="169"/>
+		<tag k="lat" v="36.1828583"/>
+		<tag k="lon" v="117.1446618"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000082]"/>
+	</node>
+	<node id="170" lat="36.21498506667" lon="117.14463396667" version="3">
+		<tag k="id" v="170"/>
+		<tag k="lat" v="36.21498506667"/>
+		<tag k="lon" v="117.14463396667"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000348]"/>
+	</node>
+	<node id="171" lat="36.1896521" lon="117.1453707" version="3">
+		<tag k="id" v="171"/>
+		<tag k="lat" v="36.1896521"/>
+		<tag k="lon" v="117.1453707"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000108]"/>
+	</node>
+	<node id="172" lat="36.19261095" lon="117.1455065" version="3">
+		<tag k="id" v="172"/>
+		<tag k="lat" v="36.19261095"/>
+		<tag k="lon" v="117.1455065"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000050]"/>
+	</node>
+	<node id="173" lat="36.1978479" lon="117.1457367" version="3">
+		<tag k="id" v="173"/>
+		<tag k="lat" v="36.1978479"/>
+		<tag k="lon" v="117.1457367"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000019]"/>
+	</node>
+	<node id="174" lat="36.2082376" lon="117.1461212" version="3">
+		<tag k="id" v="174"/>
+		<tag k="lat" v="36.2082376"/>
+		<tag k="lon" v="117.1461212"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000110]"/>
+	</node>
+	<node id="175" lat="36.19266133603" lon="117.147019568" version="3">
+		<tag k="id" v="175"/>
+		<tag k="lat" v="36.19266133603"/>
+		<tag k="lon" v="117.147019568"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000552]"/>
+	</node>
+	<node id="176" lat="36.16165619864" lon="117.14786705369" version="3">
+		<tag k="id" v="176"/>
+		<tag k="lat" v="36.16165619864"/>
+		<tag k="lon" v="117.14786705369"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000320]"/>
+	</node>
+	<node id="177" lat="36.1821196" lon="117.1506074" version="3">
+		<tag k="id" v="177"/>
+		<tag k="lat" v="36.1821196"/>
+		<tag k="lon" v="117.1506074"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000284]"/>
+	</node>
+	<node id="178" lat="36.18463575" lon="117.15066235" version="3">
+		<tag k="id" v="178"/>
+		<tag k="lat" v="36.18463575"/>
+		<tag k="lon" v="117.15066235"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000573]"/>
+	</node>
+	<node id="179" lat="36.189958" lon="117.1507786" version="3">
+		<tag k="id" v="179"/>
+		<tag k="lat" v="36.189958"/>
+		<tag k="lon" v="117.1507786"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000025]"/>
+	</node>
+	<node id="180" lat="36.19300595" lon="117.150844175" version="3">
+		<tag k="id" v="180"/>
+		<tag k="lat" v="36.19300595"/>
+		<tag k="lon" v="117.150844175"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000035]"/>
+	</node>
+	<node id="181" lat="36.19589225" lon="117.15092635" version="3">
+		<tag k="id" v="181"/>
+		<tag k="lat" v="36.19589225"/>
+		<tag k="lon" v="117.15092635"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000235]"/>
+	</node>
+	<node id="182" lat="36.2083727" lon="117.151129525" version="3">
+		<tag k="id" v="182"/>
+		<tag k="lat" v="36.2083727"/>
+		<tag k="lon" v="117.151129525"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000245]"/>
+	</node>
+	<node id="183" lat="36.1979409" lon="117.1509556" version="3">
+		<tag k="id" v="183"/>
+		<tag k="lat" v="36.1979409"/>
+		<tag k="lon" v="117.1509556"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000236]"/>
+	</node>
+	<node id="184" lat="36.1766733" lon="117.1527451" version="3">
+		<tag k="id" v="184"/>
+		<tag k="lat" v="36.1766733"/>
+		<tag k="lon" v="117.1527451"/>
+	</node>
+	<node id="185" lat="36.14674515" lon="117.153129525" version="3">
+		<tag k="id" v="185"/>
+		<tag k="lat" v="36.14674515"/>
+		<tag k="lon" v="117.153129525"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000597]"/>
+	</node>
+	<node id="186" lat="36.1845006" lon="117.1546057" version="3">
+		<tag k="id" v="186"/>
+		<tag k="lat" v="36.1845006"/>
+		<tag k="lon" v="117.1546057"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000572]"/>
+	</node>
+	<node id="187" lat="36.19320686" lon="117.15520756" version="3">
+		<tag k="id" v="187"/>
+		<tag k="lat" v="36.19320686"/>
+		<tag k="lon" v="117.15520756"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000044]"/>
+	</node>
+	<node id="188" lat="36.1899442" lon="117.1550476" version="3">
+		<tag k="id" v="188"/>
+		<tag k="lat" v="36.1899442"/>
+		<tag k="lon" v="117.1550476"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000027]"/>
+	</node>
+	<node id="189" lat="36.183992275" lon="117.158978125" version="3">
+		<tag k="id" v="189"/>
+		<tag k="lat" v="36.183992275"/>
+		<tag k="lon" v="117.158978125"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000454]"/>
+	</node>
+	<node id="190" lat="36.1883809" lon="117.15933855" version="3">
+		<tag k="id" v="190"/>
+		<tag k="lat" v="36.1883809"/>
+		<tag k="lon" v="117.15933855"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000384]"/>
+	</node>
+	<node id="191" lat="36.1967029" lon="117.1597266" version="3">
+		<tag k="id" v="191"/>
+		<tag k="lat" v="36.1967029"/>
+		<tag k="lon" v="117.1597266"/>
+	</node>
+	<node id="192" lat="36.16172825" lon="117.1615608" version="3">
+		<tag k="id" v="192"/>
+		<tag k="lat" v="36.16172825"/>
+		<tag k="lon" v="117.1615608"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000321]"/>
+	</node>
+	<node id="193" lat="36.18357408944" lon="117.1618272968" version="3">
+		<tag k="id" v="193"/>
+		<tag k="lat" v="36.18357408944"/>
+		<tag k="lon" v="117.1618272968"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000455]"/>
+	</node>
+	<node id="194" lat="36.161738475" lon="117.16466245" version="3">
+		<tag k="id" v="194"/>
+		<tag k="lat" v="36.161738475"/>
+		<tag k="lon" v="117.16466245"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000323]"/>
+	</node>
+	<node id="195" lat="36.193889375" lon="117.164790725" version="3">
+		<tag k="id" v="195"/>
+		<tag k="lat" v="36.193889375"/>
+		<tag k="lon" v="117.164790725"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000033]"/>
+	</node>
+	<node id="196" lat="36.1967943" lon="117.1647603" version="3">
+		<tag k="id" v="196"/>
+		<tag k="lat" v="36.1967943"/>
+		<tag k="lon" v="117.1647603"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000489]"/>
+	</node>
+	<node id="197" lat="36.2204928" lon="117.1647763" version="3">
+		<tag k="id" v="197"/>
+		<tag k="lat" v="36.2204928"/>
+		<tag k="lon" v="117.1647763"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000496]"/>
+	</node>
+	<node id="198" lat="36.2004078" lon="117.16506365" version="3">
+		<tag k="id" v="198"/>
+		<tag k="lat" v="36.2004078"/>
+		<tag k="lon" v="117.16506365"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000483]"/>
+	</node>
+	<node id="199" lat="36.210826" lon="117.1651704" version="3">
+		<tag k="id" v="199"/>
+		<tag k="lat" v="36.210826"/>
+		<tag k="lon" v="117.1651704"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000487]"/>
+	</node>
+	<node id="200" lat="36.20506855" lon="117.165416475" version="3">
+		<tag k="id" v="200"/>
+		<tag k="lat" v="36.20506855"/>
+		<tag k="lon" v="117.165416475"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000486]"/>
+	</node>
+	<node id="201" lat="36.1624159" lon="117.16754955" version="3">
+		<tag k="id" v="201"/>
+		<tag k="lat" v="36.1624159"/>
+		<tag k="lon" v="117.16754955"/>
+	</node>
+	<node id="202" lat="36.18275636667" lon="117.16901326667" version="3">
+		<tag k="id" v="202"/>
+		<tag k="lat" v="36.18275636667"/>
+		<tag k="lon" v="117.16901326667"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000387]"/>
+	</node>
+	<node id="203" lat="36.16388414035" lon="117.16950490751" version="3">
+		<tag k="id" v="203"/>
+		<tag k="lat" v="36.16388414035"/>
+		<tag k="lon" v="117.16950490751"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000325, 370901000331, 370901000324]"/>
+	</node>
+	<node id="204" lat="36.18729355" lon="117.1699941" version="3">
+		<tag k="id" v="204"/>
+		<tag k="lat" v="36.18729355"/>
+		<tag k="lon" v="117.1699941"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000028]"/>
+	</node>
+	<node id="205" lat="36.1936770625" lon="117.1708499125" version="3">
+		<tag k="id" v="205"/>
+		<tag k="lat" v="36.1936770625"/>
+		<tag k="lon" v="117.1708499125"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000045]"/>
+	</node>
+	<node id="206" lat="36.19687965" lon="117.1709882" version="3">
+		<tag k="id" v="206"/>
+		<tag k="lat" v="36.19687965"/>
+		<tag k="lon" v="117.1709882"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000066]"/>
+	</node>
+	<node id="207" lat="36.2001227" lon="117.17119983333" version="3">
+		<tag k="id" v="207"/>
+		<tag k="lat" v="36.2001227"/>
+		<tag k="lon" v="117.17119983333"/>
+	</node>
+	<node id="208" lat="36.17385552" lon="117.17611818" version="3">
+		<tag k="id" v="208"/>
+		<tag k="lat" v="36.17385552"/>
+		<tag k="lon" v="117.17611818"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000326]"/>
+	</node>
+	<node id="209" lat="36.1969809" lon="117.1792961" version="3">
+		<tag k="id" v="209"/>
+		<tag k="lat" v="36.1969809"/>
+		<tag k="lon" v="117.1792961"/>
+	</node>
+	<node id="210" lat="36.1968315" lon="117.1838377" version="3">
+		<tag k="id" v="210"/>
+		<tag k="lat" v="36.1968315"/>
+		<tag k="lon" v="117.1838377"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000065]"/>
+	</node>
+	<node id="211" lat="36.19773848636" lon="117.1331649919" version="3">
+		<tag k="id" v="211"/>
+		<tag k="lat" v="36.19773848636"/>
+		<tag k="lon" v="117.1331649919"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000021]"/>
+	</node>
+	<node id="212" lat="36.20859998049" lon="117.13760811044" version="3">
+		<tag k="id" v="212"/>
+		<tag k="lat" v="36.20859998049"/>
+		<tag k="lon" v="117.13760811044"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000346, 615009999000]"/>
+	</node>
+	<node id="213" lat="36.18690610438" lon="117.11743888196" version="3">
+		<tag k="id" v="213"/>
+		<tag k="lat" v="36.18690610438"/>
+		<tag k="lon" v="117.11743888196"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[712010000001, 370902000003]"/>
+	</node>
+	<node id="214" lat="36.19887144614" lon="117.12694349565" version="3">
+		<tag k="id" v="214"/>
+		<tag k="lat" v="36.19887144614"/>
+		<tag k="lon" v="117.12694349565"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000475, 370902000012, 370901000415]"/>
+	</node>
+	<node id="215" lat="36.21810671582" lon="117.16505396885" version="3">
+		<tag k="id" v="215"/>
+		<tag k="lat" v="36.21810671582"/>
+		<tag k="lon" v="117.16505396885"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000495]"/>
+	</node>
+	<node id="216" lat="36.20488254285" lon="117.12883127051" version="3">
+		<tag k="id" v="216"/>
+		<tag k="lat" v="36.20488254285"/>
+		<tag k="lon" v="117.12883127051"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000502, 370901000571]"/>
+	</node>
+	<node id="217" lat="36.20656519251" lon="117.09779186094" version="3">
+		<tag k="id" v="217"/>
+		<tag k="lat" v="36.20656519251"/>
+		<tag k="lon" v="117.09779186094"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000501, 370901000334, 370901000368, 370901000369, 812151004000]"/>
+	</node>
+	<node id="218" lat="36.18003186238" lon="117.05126924081" version="3">
+		<tag k="id" v="218"/>
+		<tag k="lat" v="36.18003186238"/>
+		<tag k="lon" v="117.05126924081"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370911000494, 370911000507]"/>
+	</node>
+	<node id="219" lat="36.2253040067" lon="117.16409078732" version="3">
+		<tag k="id" v="219"/>
+		<tag k="lat" v="36.2253040067"/>
+		<tag k="lon" v="117.16409078732"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000497]"/>
+	</node>
+	<node id="220" lat="36.1910113823" lon="117.07924931097" version="3">
+		<tag k="id" v="220"/>
+		<tag k="lat" v="36.1910113823"/>
+		<tag k="lon" v="117.07924931097"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000518]"/>
+	</node>
+	<node id="221" lat="36.19674767428" lon="117.11991042001" version="3">
+		<tag k="id" v="221"/>
+		<tag k="lat" v="36.19674767428"/>
+		<tag k="lon" v="117.11991042001"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000013]"/>
+	</node>
+	<node id="222" lat="36.21121933024" lon="117.14150631987" version="3">
+		<tag k="id" v="222"/>
+		<tag k="lat" v="36.21121933024"/>
+		<tag k="lon" v="117.14150631987"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000058]"/>
+	</node>
+	<node id="223" lat="36.20624845466" lon="117.10579244913" version="3">
+		<tag k="id" v="223"/>
+		<tag k="lat" v="36.20624845466"/>
+		<tag k="lon" v="117.10579244913"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000350]"/>
+	</node>
+	<node id="224" lat="36.19253373529" lon="117.11330256018" version="3">
+		<tag k="id" v="224"/>
+		<tag k="lat" v="36.19253373529"/>
+		<tag k="lon" v="117.11330256018"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000020]"/>
+	</node>
+	<node id="225" lat="36.20686448675" lon="117.1169858228" version="3">
+		<tag k="id" v="225"/>
+		<tag k="lat" v="36.20686448675"/>
+		<tag k="lon" v="117.1169858228"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000353, 370901000411]"/>
+	</node>
+	<node id="226" lat="36.20180938401" lon="117.14244908887" version="3">
+		<tag k="id" v="226"/>
+		<tag k="lat" v="36.20180938401"/>
+		<tag k="lon" v="117.14244908887"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000104]"/>
+	</node>
+	<node id="227" lat="36.20185045195" lon="117.14588055521" version="3">
+		<tag k="id" v="227"/>
+		<tag k="lat" v="36.20185045195"/>
+		<tag k="lon" v="117.14588055521"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000105, 370901000549]"/>
+	</node>
+	<node id="228" lat="36.18907014555" lon="117.1317386145" version="3">
+		<tag k="id" v="228"/>
+		<tag k="lat" v="36.18907014555"/>
+		<tag k="lon" v="117.1317386145"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000024]"/>
+	</node>
+	<node id="229" lat="36.19481153013" lon="117.14612249504" version="3">
+		<tag k="id" v="229"/>
+		<tag k="lat" v="36.19481153013"/>
+		<tag k="lon" v="117.14612249504"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000099]"/>
+	</node>
+	<node id="230" lat="36.20455190561" lon="117.0782760381" version="3">
+		<tag k="id" v="230"/>
+		<tag k="lat" v="36.20455190561"/>
+		<tag k="lon" v="117.0782760381"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000352]"/>
+	</node>
+	<node id="231" lat="36.25105728231" lon="117.00397608852" version="3">
+		<tag k="id" v="231"/>
+		<tag k="lat" v="36.25105728231"/>
+		<tag k="lon" v="117.00397608852"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[615009993000]"/>
+	</node>
+	<node id="232" lat="36.21790596371" lon="117.04395641495" version="3">
+		<tag k="id" v="232"/>
+		<tag k="lat" v="36.21790596371"/>
+		<tag k="lon" v="117.04395641495"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[615009992000]"/>
+	</node>
+	<node id="233" lat="36.19920307868" lon="117.08737165766" version="3">
+		<tag k="id" v="233"/>
+		<tag k="lat" v="36.19920307868"/>
+		<tag k="lon" v="117.08737165766"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000253, 370902000069, 370902000074, 370901000569]"/>
+	</node>
+	<node id="234" lat="36.1958976704" lon="117.12207589023" version="3">
+		<tag k="id" v="234"/>
+		<tag k="lat" v="36.1958976704"/>
+		<tag k="lon" v="117.12207589023"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370902000008]"/>
+	</node>
+	<node id="235" lat="36.1976499716" lon="117.13828302408" version="3">
+		<tag k="id" v="235"/>
+		<tag k="lat" v="36.1976499716"/>
+		<tag k="lon" v="117.13828302408"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000437]"/>
+	</node>
+	<node id="236" lat="36.19346348997" lon="117.106856605" version="3">
+		<tag k="id" v="236"/>
+		<tag k="lat" v="36.19346348997"/>
+		<tag k="lon" v="117.106856605"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000566]"/>
+	</node>
+	<node id="237" lat="36.19086030278" lon="117.14542780362" version="3">
+		<tag k="id" v="237"/>
+		<tag k="lat" v="36.19086030278"/>
+		<tag k="lon" v="117.14542780362"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000527]"/>
+	</node>
+	<node id="238" lat="36.16453506028" lon="117.13261821394" version="3">
+		<tag k="id" v="238"/>
+		<tag k="lat" v="36.16453506028"/>
+		<tag k="lon" v="117.13261821394"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000574]"/>
+	</node>
+	<node id="239" lat="36.19119079543" lon="117.15080482969" version="3">
+		<tag k="id" v="239"/>
+		<tag k="lat" v="36.19119079543"/>
+		<tag k="lon" v="117.15080482969"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000525]"/>
+	</node>
+	<node id="240" lat="36.20002870046" lon="117.13517298856" version="3">
+		<tag k="id" v="240"/>
+		<tag k="lat" v="36.20002870046"/>
+		<tag k="lon" v="117.13517298856"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000558]"/>
+	</node>
+	<node id="241" lat="36.18679864337" lon="117.15070959135" version="3">
+		<tag k="id" v="241"/>
+		<tag k="lat" v="36.18679864337"/>
+		<tag k="lon" v="117.15070959135"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000559]"/>
+	</node>
+	<node id="242" lat="36.19779318759" lon="117.14395855477" version="3">
+		<tag k="id" v="242"/>
+		<tag k="lat" v="36.19779318759"/>
+		<tag k="lon" v="117.14395855477"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000592]"/>
+	</node>
+	<node id="243" lat="36.22595399741" lon="117.15589622172" version="3">
+		<tag k="id" v="243"/>
+		<tag k="lat" v="36.22595399741"/>
+		<tag k="lon" v="117.15589622172"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000345]"/>
+	</node>
+	<node id="244" lat="36.20269369578" lon="117.13840457963" version="3">
+		<tag k="id" v="244"/>
+		<tag k="lat" v="36.20269369578"/>
+		<tag k="lon" v="117.13840457963"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000550]"/>
+	</node>
+	<node id="245" lat="36.17762408612" lon="117.11798136993" version="3">
+		<tag k="id" v="245"/>
+		<tag k="lat" v="36.17762408612"/>
+		<tag k="lon" v="117.11798136993"/>
+		<tag k="is_kakou" v="True"/>
+		<tag k="kakou_num" v="[370901000281]"/>
+	</node>
+	<way id="2" version="3">
+		<nd ref="44"/>
+		<nd ref="33"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2"/>
+		<tag k="ref" v="12"/>
+		<tag k="id" v="2"/>
+		<tag k="ref" v="4433"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="4" version="3">
+		<nd ref="40"/>
+		<nd ref="33"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="4"/>
+		<tag k="ref" v="32"/>
+		<tag k="id" v="4"/>
+		<tag k="ref" v="4033"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="6" version="3">
+		<nd ref="43"/>
+		<nd ref="33"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="6"/>
+		<tag k="ref" v="42"/>
+		<tag k="id" v="6"/>
+		<tag k="ref" v="4333"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="12" version="3">
+		<nd ref="121"/>
+		<nd ref="140"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="12"/>
+		<tag k="ref" v="56"/>
+		<tag k="id" v="12"/>
+		<tag k="ref" v="121140"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="14" version="3">
+		<nd ref="51"/>
+		<nd ref="30"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="14"/>
+		<tag k="ref" v="78"/>
+		<tag k="id" v="14"/>
+		<tag k="ref" v="5130"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="16" version="3">
+		<nd ref="28"/>
+		<nd ref="218"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="16"/>
+		<tag k="ref" v="910"/>
+		<tag k="id" v="16"/>
+		<tag k="ref" v="28218"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="20" version="3">
+		<nd ref="4"/>
+		<nd ref="8"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="20"/>
+		<tag k="ref" v="1112"/>
+		<tag k="id" v="20"/>
+		<tag k="ref" v="48"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="22" version="3">
+		<nd ref="170"/>
+		<nd ref="243"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="22"/>
+		<tag k="ref" v="1314"/>
+		<tag k="id" v="22"/>
+		<tag k="ref" v="170243"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="24" version="3">
+		<nd ref="219"/>
+		<nd ref="243"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="24"/>
+		<tag k="ref" v="1514"/>
+		<tag k="id" v="24"/>
+		<tag k="ref" v="219243"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="26" version="3">
+		<nd ref="151"/>
+		<nd ref="244"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="26"/>
+		<tag k="ref" v="1617"/>
+		<tag k="id" v="26"/>
+		<tag k="ref" v="151244"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="28" version="3">
+		<nd ref="226"/>
+		<nd ref="244"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="28"/>
+		<tag k="ref" v="1817"/>
+		<tag k="id" v="28"/>
+		<tag k="ref" v="226244"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="30" version="3">
+		<nd ref="113"/>
+		<nd ref="245"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="30"/>
+		<tag k="ref" v="1920"/>
+		<tag k="id" v="30"/>
+		<tag k="ref" v="113245"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="32" version="3">
+		<nd ref="124"/>
+		<nd ref="245"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="32"/>
+		<tag k="ref" v="2120"/>
+		<tag k="id" v="32"/>
+		<tag k="ref" v="124245"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="40" version="3">
+		<nd ref="59"/>
+		<nd ref="51"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="40"/>
+		<tag k="ref" v="227"/>
+		<tag k="id" v="40"/>
+		<tag k="ref" v="5951"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="59" version="3">
+		<nd ref="92"/>
+		<nd ref="95"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="59"/>
+		<tag k="ref" v="2324"/>
+		<tag k="id" v="59"/>
+		<tag k="ref" v="9295"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="65" version="3">
+		<nd ref="99"/>
+		<nd ref="91"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="65"/>
+		<tag k="ref" v="2526"/>
+		<tag k="id" v="65"/>
+		<tag k="ref" v="9991"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="71" version="3">
+		<nd ref="55"/>
+		<nd ref="56"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="71"/>
+		<tag k="ref" v="2728"/>
+		<tag k="id" v="71"/>
+		<tag k="ref" v="5556"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="85" version="3">
+		<nd ref="194"/>
+		<nd ref="192"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="85"/>
+		<tag k="ref" v="2930"/>
+		<tag k="id" v="85"/>
+		<tag k="ref" v="194192"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="86" version="3">
+		<nd ref="155"/>
+		<nd ref="156"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="86"/>
+		<tag k="ref" v="3132"/>
+		<tag k="id" v="86"/>
+		<tag k="ref" v="155156"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="87" version="3">
+		<nd ref="161"/>
+		<nd ref="162"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="87"/>
+		<tag k="ref" v="3334"/>
+		<tag k="id" v="87"/>
+		<tag k="ref" v="161162"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="88" version="3">
+		<nd ref="162"/>
+		<nd ref="161"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="88"/>
+		<tag k="ref" v="3433"/>
+		<tag k="id" v="88"/>
+		<tag k="ref" v="162161"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="92" version="3">
+		<nd ref="174"/>
+		<nd ref="159"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="92"/>
+		<tag k="ref" v="3536"/>
+		<tag k="id" v="92"/>
+		<tag k="ref" v="174159"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="93" version="3">
+		<nd ref="73"/>
+		<nd ref="74"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="93"/>
+		<tag k="ref" v="3738"/>
+		<tag k="id" v="93"/>
+		<tag k="ref" v="7374"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="94" version="3">
+		<nd ref="74"/>
+		<nd ref="69"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="94"/>
+		<tag k="ref" v="3839"/>
+		<tag k="id" v="94"/>
+		<tag k="ref" v="7469"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="98" version="3">
+		<nd ref="136"/>
+		<nd ref="135"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="98"/>
+		<tag k="ref" v="4041"/>
+		<tag k="id" v="98"/>
+		<tag k="ref" v="136135"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="99" version="3">
+		<nd ref="135"/>
+		<nd ref="136"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="99"/>
+		<tag k="ref" v="4140"/>
+		<tag k="id" v="99"/>
+		<tag k="ref" v="135136"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="100" version="3">
+		<nd ref="134"/>
+		<nd ref="143"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="100"/>
+		<tag k="ref" v="4243"/>
+		<tag k="id" v="100"/>
+		<tag k="ref" v="134143"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="101" version="3">
+		<nd ref="143"/>
+		<nd ref="144"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="101"/>
+		<tag k="ref" v="4344"/>
+		<tag k="id" v="101"/>
+		<tag k="ref" v="143144"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="102" version="3">
+		<nd ref="143"/>
+		<nd ref="134"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="102"/>
+		<tag k="ref" v="4342"/>
+		<tag k="id" v="102"/>
+		<tag k="ref" v="143134"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="104" version="3">
+		<nd ref="116"/>
+		<nd ref="117"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="104"/>
+		<tag k="ref" v="4546"/>
+		<tag k="id" v="104"/>
+		<tag k="ref" v="116117"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="105" version="3">
+		<nd ref="95"/>
+		<nd ref="92"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="105"/>
+		<tag k="ref" v="2423"/>
+		<tag k="id" v="105"/>
+		<tag k="ref" v="9592"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="106" version="3">
+		<nd ref="95"/>
+		<nd ref="108"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="106"/>
+		<tag k="ref" v="2447"/>
+		<tag k="id" v="106"/>
+		<tag k="ref" v="95108"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="107" version="3">
+		<nd ref="37"/>
+		<nd ref="34"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="107"/>
+		<tag k="ref" v="4849"/>
+		<tag k="id" v="107"/>
+		<tag k="ref" v="3734"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="111" version="3">
+		<nd ref="149"/>
+		<nd ref="152"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="111"/>
+		<tag k="ref" v="5051"/>
+		<tag k="id" v="111"/>
+		<tag k="ref" v="149152"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="112" version="3">
+		<nd ref="152"/>
+		<nd ref="149"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="112"/>
+		<tag k="ref" v="5150"/>
+		<tag k="id" v="112"/>
+		<tag k="ref" v="152149"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="115" version="3">
+		<nd ref="108"/>
+		<nd ref="95"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="115"/>
+		<tag k="ref" v="4724"/>
+		<tag k="id" v="115"/>
+		<tag k="ref" v="10895"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="117" version="3">
+		<nd ref="159"/>
+		<nd ref="174"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="117"/>
+		<tag k="ref" v="3635"/>
+		<tag k="id" v="117"/>
+		<tag k="ref" v="159174"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="121" version="3">
+		<nd ref="11"/>
+		<nd ref="12"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="121"/>
+		<tag k="ref" v="5253"/>
+		<tag k="id" v="121"/>
+		<tag k="ref" v="1112"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="122" version="3">
+		<nd ref="13"/>
+		<nd ref="20"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="122"/>
+		<tag k="ref" v="5455"/>
+		<tag k="id" v="122"/>
+		<tag k="ref" v="1320"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="126" version="3">
+		<nd ref="191"/>
+		<nd ref="196"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="126"/>
+		<tag k="ref" v="5657"/>
+		<tag k="id" v="126"/>
+		<tag k="ref" v="191196"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="130" version="3">
+		<nd ref="196"/>
+		<nd ref="195"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="130"/>
+		<tag k="ref" v="5758"/>
+		<tag k="id" v="130"/>
+		<tag k="ref" v="196195"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="131" version="3">
+		<nd ref="196"/>
+		<nd ref="191"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="131"/>
+		<tag k="ref" v="5756"/>
+		<tag k="id" v="131"/>
+		<tag k="ref" v="196191"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="132" version="3">
+		<nd ref="206"/>
+		<nd ref="207"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="132"/>
+		<tag k="ref" v="5960"/>
+		<tag k="id" v="132"/>
+		<tag k="ref" v="206207"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="138" version="3">
+		<nd ref="15"/>
+		<nd ref="16"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="138"/>
+		<tag k="ref" v="6162"/>
+		<tag k="id" v="138"/>
+		<tag k="ref" v="1516"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="222" version="3">
+		<nd ref="204"/>
+		<nd ref="202"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="222"/>
+		<tag k="ref" v="6364"/>
+		<tag k="id" v="222"/>
+		<tag k="ref" v="204202"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="223" version="3">
+		<nd ref="188"/>
+		<nd ref="190"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="223"/>
+		<tag k="ref" v="6566"/>
+		<tag k="id" v="223"/>
+		<tag k="ref" v="188190"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="231" version="3">
+		<nd ref="56"/>
+		<nd ref="55"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="231"/>
+		<tag k="ref" v="2827"/>
+		<tag k="id" v="231"/>
+		<tag k="ref" v="5655"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="240" version="3">
+		<nd ref="117"/>
+		<nd ref="116"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="240"/>
+		<tag k="ref" v="4645"/>
+		<tag k="id" v="240"/>
+		<tag k="ref" v="117116"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="241" version="3">
+		<nd ref="12"/>
+		<nd ref="11"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="241"/>
+		<tag k="ref" v="5352"/>
+		<tag k="id" v="241"/>
+		<tag k="ref" v="1211"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="242" version="3">
+		<nd ref="12"/>
+		<nd ref="17"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="242"/>
+		<tag k="ref" v="5367"/>
+		<tag k="id" v="242"/>
+		<tag k="ref" v="1217"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="243" version="3">
+		<nd ref="17"/>
+		<nd ref="12"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="243"/>
+		<tag k="ref" v="6753"/>
+		<tag k="id" v="243"/>
+		<tag k="ref" v="1712"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="246" version="3">
+		<nd ref="63"/>
+		<nd ref="53"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="246"/>
+		<tag k="ref" v="6869"/>
+		<tag k="id" v="246"/>
+		<tag k="ref" v="6353"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="274" version="3">
+		<nd ref="49"/>
+		<nd ref="48"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="274"/>
+		<tag k="ref" v="7071"/>
+		<tag k="id" v="274"/>
+		<tag k="ref" v="4948"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="275" version="3">
+		<nd ref="61"/>
+		<nd ref="67"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="275"/>
+		<tag k="ref" v="7273"/>
+		<tag k="id" v="275"/>
+		<tag k="ref" v="6167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="276" version="3">
+		<nd ref="67"/>
+		<nd ref="61"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="276"/>
+		<tag k="ref" v="7372"/>
+		<tag k="id" v="276"/>
+		<tag k="ref" v="6761"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="295" version="3">
+		<nd ref="144"/>
+		<nd ref="143"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="295"/>
+		<tag k="ref" v="4443"/>
+		<tag k="id" v="295"/>
+		<tag k="ref" v="144143"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="297" version="3">
+		<nd ref="47"/>
+		<nd ref="48"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="297"/>
+		<tag k="ref" v="7471"/>
+		<tag k="id" v="297"/>
+		<tag k="ref" v="4748"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="300" version="3">
+		<nd ref="74"/>
+		<nd ref="73"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="300"/>
+		<tag k="ref" v="3837"/>
+		<tag k="id" v="300"/>
+		<tag k="ref" v="7473"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="301" version="3">
+		<nd ref="53"/>
+		<nd ref="63"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="301"/>
+		<tag k="ref" v="6968"/>
+		<tag k="id" v="301"/>
+		<tag k="ref" v="5363"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="302" version="3">
+		<nd ref="38"/>
+		<nd ref="41"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="302"/>
+		<tag k="ref" v="7576"/>
+		<tag k="id" v="302"/>
+		<tag k="ref" v="3841"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="313" version="3">
+		<nd ref="76"/>
+		<nd ref="74"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="313"/>
+		<tag k="ref" v="7738"/>
+		<tag k="id" v="313"/>
+		<tag k="ref" v="7674"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="318" version="3">
+		<nd ref="99"/>
+		<nd ref="98"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="318"/>
+		<tag k="ref" v="2578"/>
+		<tag k="id" v="318"/>
+		<tag k="ref" v="9998"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="325" version="3">
+		<nd ref="69"/>
+		<nd ref="74"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="325"/>
+		<tag k="ref" v="3938"/>
+		<tag k="id" v="325"/>
+		<tag k="ref" v="6974"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="332" version="3">
+		<nd ref="48"/>
+		<nd ref="47"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="332"/>
+		<tag k="ref" v="7174"/>
+		<tag k="id" v="332"/>
+		<tag k="ref" v="4847"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="333" version="3">
+		<nd ref="48"/>
+		<nd ref="49"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="333"/>
+		<tag k="ref" v="7170"/>
+		<tag k="id" v="333"/>
+		<tag k="ref" v="4849"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="340" version="3">
+		<nd ref="156"/>
+		<nd ref="155"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="340"/>
+		<tag k="ref" v="3231"/>
+		<tag k="id" v="340"/>
+		<tag k="ref" v="156155"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="345" version="3">
+		<nd ref="186"/>
+		<nd ref="178"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="345"/>
+		<tag k="ref" v="7980"/>
+		<tag k="id" v="345"/>
+		<tag k="ref" v="186178"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="346" version="3">
+		<nd ref="98"/>
+		<nd ref="99"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="346"/>
+		<tag k="ref" v="7825"/>
+		<tag k="id" v="346"/>
+		<tag k="ref" v="9899"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="348" version="3">
+		<nd ref="165"/>
+		<nd ref="160"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="348"/>
+		<tag k="ref" v="8182"/>
+		<tag k="id" v="348"/>
+		<tag k="ref" v="165160"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="386" version="3">
+		<nd ref="30"/>
+		<nd ref="27"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="386"/>
+		<tag k="ref" v="883"/>
+		<tag k="id" v="386"/>
+		<tag k="ref" v="3027"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="387" version="3">
+		<nd ref="22"/>
+		<nd ref="23"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="387"/>
+		<tag k="ref" v="8485"/>
+		<tag k="id" v="387"/>
+		<tag k="ref" v="2223"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="389" version="3">
+		<nd ref="20"/>
+		<nd ref="13"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="389"/>
+		<tag k="ref" v="5554"/>
+		<tag k="id" v="389"/>
+		<tag k="ref" v="2013"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="391" version="3">
+		<nd ref="178"/>
+		<nd ref="186"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="391"/>
+		<tag k="ref" v="8079"/>
+		<tag k="id" v="391"/>
+		<tag k="ref" v="178186"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="393" version="3">
+		<nd ref="186"/>
+		<nd ref="189"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="393"/>
+		<tag k="ref" v="7987"/>
+		<tag k="id" v="393"/>
+		<tag k="ref" v="186189"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="394" version="3">
+		<nd ref="190"/>
+		<nd ref="188"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="394"/>
+		<tag k="ref" v="6665"/>
+		<tag k="id" v="394"/>
+		<tag k="ref" v="190188"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="395" version="3">
+		<nd ref="180"/>
+		<nd ref="181"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="395"/>
+		<tag k="ref" v="8889"/>
+		<tag k="id" v="395"/>
+		<tag k="ref" v="180181"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="396" version="3">
+		<nd ref="181"/>
+		<nd ref="183"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="396"/>
+		<tag k="ref" v="8990"/>
+		<tag k="id" v="396"/>
+		<tag k="ref" v="181183"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="397" version="3">
+		<nd ref="183"/>
+		<nd ref="181"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="397"/>
+		<tag k="ref" v="9089"/>
+		<tag k="id" v="397"/>
+		<tag k="ref" v="183181"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="502" version="3">
+		<nd ref="160"/>
+		<nd ref="165"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="502"/>
+		<tag k="ref" v="8281"/>
+		<tag k="id" v="502"/>
+		<tag k="ref" v="160165"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="520" version="3">
+		<nd ref="125"/>
+		<nd ref="119"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="520"/>
+		<tag k="ref" v="9192"/>
+		<tag k="id" v="520"/>
+		<tag k="ref" v="125119"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="521" version="3">
+		<nd ref="141"/>
+		<nd ref="211"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="521"/>
+		<tag k="ref" v="9394"/>
+		<tag k="id" v="521"/>
+		<tag k="ref" v="141211"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="522" version="3">
+		<nd ref="211"/>
+		<nd ref="141"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="522"/>
+		<tag k="ref" v="9493"/>
+		<tag k="id" v="522"/>
+		<tag k="ref" v="211141"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="524" version="3">
+		<nd ref="222"/>
+		<nd ref="157"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="524"/>
+		<tag k="ref" v="9596"/>
+		<tag k="id" v="524"/>
+		<tag k="ref" v="222157"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="525" version="3">
+		<nd ref="157"/>
+		<nd ref="222"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="525"/>
+		<tag k="ref" v="9695"/>
+		<tag k="id" v="525"/>
+		<tag k="ref" v="157222"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="526" version="3">
+		<nd ref="140"/>
+		<nd ref="146"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="526"/>
+		<tag k="ref" v="697"/>
+		<tag k="id" v="526"/>
+		<tag k="ref" v="140146"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="527" version="3">
+		<nd ref="164"/>
+		<nd ref="167"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="527"/>
+		<tag k="ref" v="9899"/>
+		<tag k="id" v="527"/>
+		<tag k="ref" v="164167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="528" version="3">
+		<nd ref="167"/>
+		<nd ref="164"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="528"/>
+		<tag k="ref" v="9998"/>
+		<tag k="id" v="528"/>
+		<tag k="ref" v="167164"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="533" version="3">
+		<nd ref="228"/>
+		<nd ref="142"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="533"/>
+		<tag k="ref" v="100101"/>
+		<tag k="id" v="533"/>
+		<tag k="ref" v="228142"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="534" version="3">
+		<nd ref="142"/>
+		<nd ref="228"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="534"/>
+		<tag k="ref" v="101100"/>
+		<tag k="id" v="534"/>
+		<tag k="ref" v="142228"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="546" version="3">
+		<nd ref="167"/>
+		<nd ref="176"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="546"/>
+		<tag k="ref" v="99102"/>
+		<tag k="id" v="546"/>
+		<tag k="ref" v="167176"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="549" version="3">
+		<nd ref="42"/>
+		<nd ref="43"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="549"/>
+		<tag k="ref" v="1034"/>
+		<tag k="id" v="549"/>
+		<tag k="ref" v="4243"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="552" version="3">
+		<nd ref="237"/>
+		<nd ref="172"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="552"/>
+		<tag k="ref" v="104105"/>
+		<tag k="id" v="552"/>
+		<tag k="ref" v="237172"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="553" version="3">
+		<nd ref="172"/>
+		<nd ref="237"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="553"/>
+		<tag k="ref" v="105104"/>
+		<tag k="id" v="553"/>
+		<tag k="ref" v="172237"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="554" version="3">
+		<nd ref="172"/>
+		<nd ref="175"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="554"/>
+		<tag k="ref" v="105106"/>
+		<tag k="id" v="554"/>
+		<tag k="ref" v="172175"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="555" version="3">
+		<nd ref="175"/>
+		<nd ref="172"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="555"/>
+		<tag k="ref" v="106105"/>
+		<tag k="id" v="555"/>
+		<tag k="ref" v="175172"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="558" version="3">
+		<nd ref="146"/>
+		<nd ref="238"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="558"/>
+		<tag k="ref" v="97107"/>
+		<tag k="id" v="558"/>
+		<tag k="ref" v="146238"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="559" version="3">
+		<nd ref="238"/>
+		<nd ref="146"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="559"/>
+		<tag k="ref" v="10797"/>
+		<tag k="id" v="559"/>
+		<tag k="ref" v="238146"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="560" version="3">
+		<nd ref="94"/>
+		<nd ref="100"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="560"/>
+		<tag k="ref" v="108109"/>
+		<tag k="id" v="560"/>
+		<tag k="ref" v="94100"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="561" version="3">
+		<nd ref="100"/>
+		<nd ref="99"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="561"/>
+		<tag k="ref" v="10925"/>
+		<tag k="id" v="561"/>
+		<tag k="ref" v="10099"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="562" version="3">
+		<nd ref="99"/>
+		<nd ref="100"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="562"/>
+		<tag k="ref" v="25109"/>
+		<tag k="id" v="562"/>
+		<tag k="ref" v="99100"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="563" version="3">
+		<nd ref="100"/>
+		<nd ref="94"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="563"/>
+		<tag k="ref" v="109108"/>
+		<tag k="id" v="563"/>
+		<tag k="ref" v="10094"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="564" version="3">
+		<nd ref="179"/>
+		<nd ref="239"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="564"/>
+		<tag k="ref" v="110111"/>
+		<tag k="id" v="564"/>
+		<tag k="ref" v="179239"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="565" version="3">
+		<nd ref="239"/>
+		<nd ref="180"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="565"/>
+		<tag k="ref" v="11188"/>
+		<tag k="id" v="565"/>
+		<tag k="ref" v="239180"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="566" version="3">
+		<nd ref="180"/>
+		<nd ref="239"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="566"/>
+		<tag k="ref" v="88111"/>
+		<tag k="id" v="566"/>
+		<tag k="ref" v="180239"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="567" version="3">
+		<nd ref="239"/>
+		<nd ref="179"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="567"/>
+		<tag k="ref" v="111110"/>
+		<tag k="id" v="567"/>
+		<tag k="ref" v="239179"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="568" version="3">
+		<nd ref="179"/>
+		<nd ref="241"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="568"/>
+		<tag k="ref" v="110112"/>
+		<tag k="id" v="568"/>
+		<tag k="ref" v="179241"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="569" version="3">
+		<nd ref="241"/>
+		<nd ref="178"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="569"/>
+		<tag k="ref" v="11280"/>
+		<tag k="id" v="569"/>
+		<tag k="ref" v="241178"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="570" version="3">
+		<nd ref="178"/>
+		<nd ref="241"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="570"/>
+		<tag k="ref" v="80112"/>
+		<tag k="id" v="570"/>
+		<tag k="ref" v="178241"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="571" version="3">
+		<nd ref="241"/>
+		<nd ref="179"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="571"/>
+		<tag k="ref" v="112110"/>
+		<tag k="id" v="571"/>
+		<tag k="ref" v="241179"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="572" version="3">
+		<nd ref="163"/>
+		<nd ref="242"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="572"/>
+		<tag k="ref" v="113114"/>
+		<tag k="id" v="572"/>
+		<tag k="ref" v="163242"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="573" version="3">
+		<nd ref="242"/>
+		<nd ref="163"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="573"/>
+		<tag k="ref" v="114113"/>
+		<tag k="id" v="573"/>
+		<tag k="ref" v="242163"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="735" version="3">
+		<nd ref="101"/>
+		<nd ref="86"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="735"/>
+		<tag k="ref" v="115116"/>
+		<tag k="id" v="735"/>
+		<tag k="ref" v="10186"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="736" version="3">
+		<nd ref="101"/>
+		<nd ref="114"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="736"/>
+		<tag k="ref" v="115117"/>
+		<tag k="id" v="736"/>
+		<tag k="ref" v="101114"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="737" version="3">
+		<nd ref="101"/>
+		<nd ref="95"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="737"/>
+		<tag k="ref" v="11524"/>
+		<tag k="id" v="737"/>
+		<tag k="ref" v="10195"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="738" version="3">
+		<nd ref="101"/>
+		<nd ref="236"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="738"/>
+		<tag k="ref" v="115118"/>
+		<tag k="id" v="738"/>
+		<tag k="ref" v="101236"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="739" version="3">
+		<nd ref="92"/>
+		<nd ref="108"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="739"/>
+		<tag k="ref" v="2347"/>
+		<tag k="id" v="739"/>
+		<tag k="ref" v="92108"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="740" version="3">
+		<nd ref="92"/>
+		<nd ref="84"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="740"/>
+		<tag k="ref" v="23119"/>
+		<tag k="id" v="740"/>
+		<tag k="ref" v="9284"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="741" version="3">
+		<nd ref="92"/>
+		<nd ref="89"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="741"/>
+		<tag k="ref" v="23120"/>
+		<tag k="id" v="741"/>
+		<tag k="ref" v="9289"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="742" version="3">
+		<nd ref="89"/>
+		<nd ref="223"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="742"/>
+		<tag k="ref" v="120121"/>
+		<tag k="id" v="742"/>
+		<tag k="ref" v="89223"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="743" version="3">
+		<nd ref="89"/>
+		<nd ref="217"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="743"/>
+		<tag k="ref" v="120122"/>
+		<tag k="id" v="743"/>
+		<tag k="ref" v="89217"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="744" version="3">
+		<nd ref="89"/>
+		<nd ref="92"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="744"/>
+		<tag k="ref" v="12023"/>
+		<tag k="id" v="744"/>
+		<tag k="ref" v="8992"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="747" version="3">
+		<nd ref="123"/>
+		<nd ref="129"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="747"/>
+		<tag k="ref" v="123124"/>
+		<tag k="id" v="747"/>
+		<tag k="ref" v="123129"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="748" version="3">
+		<nd ref="123"/>
+		<nd ref="132"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="748"/>
+		<tag k="ref" v="123125"/>
+		<tag k="id" v="748"/>
+		<tag k="ref" v="123132"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="749" version="3">
+		<nd ref="123"/>
+		<nd ref="225"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="749"/>
+		<tag k="ref" v="123126"/>
+		<tag k="id" v="749"/>
+		<tag k="ref" v="123225"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="755" version="3">
+		<nd ref="38"/>
+		<nd ref="37"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="755"/>
+		<tag k="ref" v="7548"/>
+		<tag k="id" v="755"/>
+		<tag k="ref" v="3837"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="756" version="3">
+		<nd ref="40"/>
+		<nd ref="39"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="756"/>
+		<tag k="ref" v="3127"/>
+		<tag k="id" v="756"/>
+		<tag k="ref" v="4039"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="758" version="3">
+		<nd ref="49"/>
+		<nd ref="46"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="758"/>
+		<tag k="ref" v="70128"/>
+		<tag k="id" v="758"/>
+		<tag k="ref" v="4946"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="760" version="3">
+		<nd ref="61"/>
+		<nd ref="62"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="760"/>
+		<tag k="ref" v="72129"/>
+		<tag k="id" v="760"/>
+		<tag k="ref" v="6162"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="761" version="3">
+		<nd ref="61"/>
+		<nd ref="57"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="761"/>
+		<tag k="ref" v="72130"/>
+		<tag k="id" v="761"/>
+		<tag k="ref" v="6157"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="762" version="3">
+		<nd ref="46"/>
+		<nd ref="40"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="762"/>
+		<tag k="ref" v="1283"/>
+		<tag k="id" v="762"/>
+		<tag k="ref" v="4640"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="763" version="3">
+		<nd ref="46"/>
+		<nd ref="44"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="763"/>
+		<tag k="ref" v="1281"/>
+		<tag k="id" v="763"/>
+		<tag k="ref" v="4644"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="765" version="3">
+		<nd ref="54"/>
+		<nd ref="53"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="765"/>
+		<tag k="ref" v="13169"/>
+		<tag k="id" v="765"/>
+		<tag k="ref" v="5453"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="766" version="3">
+		<nd ref="54"/>
+		<nd ref="65"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="766"/>
+		<tag k="ref" v="131132"/>
+		<tag k="id" v="766"/>
+		<tag k="ref" v="5465"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="767" version="3">
+		<nd ref="54"/>
+		<nd ref="230"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="767"/>
+		<tag k="ref" v="131133"/>
+		<tag k="id" v="767"/>
+		<tag k="ref" v="54230"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="768" version="3">
+		<nd ref="4"/>
+		<nd ref="2"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="768"/>
+		<tag k="ref" v="11134"/>
+		<tag k="id" v="768"/>
+		<tag k="ref" v="42"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="769" version="3">
+		<nd ref="91"/>
+		<nd ref="88"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="769"/>
+		<tag k="ref" v="26135"/>
+		<tag k="id" v="769"/>
+		<tag k="ref" v="9188"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="776" version="3">
+		<nd ref="7"/>
+		<nd ref="8"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="776"/>
+		<tag k="ref" v="13612"/>
+		<tag k="id" v="776"/>
+		<tag k="ref" v="78"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="796" version="3">
+		<nd ref="30"/>
+		<nd ref="21"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="796"/>
+		<tag k="ref" v="8137"/>
+		<tag k="id" v="796"/>
+		<tag k="ref" v="3021"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="814" version="3">
+		<nd ref="65"/>
+		<nd ref="54"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="814"/>
+		<tag k="ref" v="132131"/>
+		<tag k="id" v="814"/>
+		<tag k="ref" v="6554"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="815" version="3">
+		<nd ref="65"/>
+		<nd ref="217"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="815"/>
+		<tag k="ref" v="132122"/>
+		<tag k="id" v="815"/>
+		<tag k="ref" v="65217"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="816" version="3">
+		<nd ref="58"/>
+		<nd ref="220"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="816"/>
+		<tag k="ref" v="138139"/>
+		<tag k="id" v="816"/>
+		<tag k="ref" v="58220"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="817" version="3">
+		<nd ref="58"/>
+		<nd ref="60"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="817"/>
+		<tag k="ref" v="138140"/>
+		<tag k="id" v="817"/>
+		<tag k="ref" v="5860"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="818" version="3">
+		<nd ref="53"/>
+		<nd ref="50"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="818"/>
+		<tag k="ref" v="69141"/>
+		<tag k="id" v="818"/>
+		<tag k="ref" v="5350"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="819" version="3">
+		<nd ref="45"/>
+		<nd ref="48"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="819"/>
+		<tag k="ref" v="14271"/>
+		<tag k="id" v="819"/>
+		<tag k="ref" v="4548"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="822" version="3">
+		<nd ref="43"/>
+		<nd ref="46"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="822"/>
+		<tag k="ref" v="4128"/>
+		<tag k="id" v="822"/>
+		<tag k="ref" v="4346"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="824" version="3">
+		<nd ref="55"/>
+		<nd ref="51"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="824"/>
+		<tag k="ref" v="277"/>
+		<tag k="id" v="824"/>
+		<tag k="ref" v="5551"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="828" version="3">
+		<nd ref="66"/>
+		<nd ref="67"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="828"/>
+		<tag k="ref" v="14373"/>
+		<tag k="id" v="828"/>
+		<tag k="ref" v="6667"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="872" version="3">
+		<nd ref="172"/>
+		<nd ref="161"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="872"/>
+		<tag k="ref" v="10533"/>
+		<tag k="id" v="872"/>
+		<tag k="ref" v="172161"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="874" version="3">
+		<nd ref="205"/>
+		<nd ref="195"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="874"/>
+		<tag k="ref" v="14458"/>
+		<tag k="id" v="874"/>
+		<tag k="ref" v="205195"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="875" version="3">
+		<nd ref="205"/>
+		<nd ref="206"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="875"/>
+		<tag k="ref" v="14459"/>
+		<tag k="id" v="875"/>
+		<tag k="ref" v="205206"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="876" version="3">
+		<nd ref="167"/>
+		<nd ref="166"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="876"/>
+		<tag k="ref" v="99145"/>
+		<tag k="id" v="876"/>
+		<tag k="ref" v="167166"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="877" version="3">
+		<nd ref="167"/>
+		<nd ref="168"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="877"/>
+		<tag k="ref" v="99146"/>
+		<tag k="id" v="877"/>
+		<tag k="ref" v="167168"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="879" version="3">
+		<nd ref="169"/>
+		<nd ref="168"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="879"/>
+		<tag k="ref" v="149146"/>
+		<tag k="id" v="879"/>
+		<tag k="ref" v="169168"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="881" version="3">
+		<nd ref="144"/>
+		<nd ref="145"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="881"/>
+		<tag k="ref" v="44151"/>
+		<tag k="id" v="881"/>
+		<tag k="ref" v="144145"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="882" version="3">
+		<nd ref="144"/>
+		<nd ref="147"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="882"/>
+		<tag k="ref" v="44152"/>
+		<tag k="id" v="882"/>
+		<tag k="ref" v="144147"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="883" version="3">
+		<nd ref="153"/>
+		<nd ref="169"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="883"/>
+		<tag k="ref" v="153149"/>
+		<tag k="id" v="883"/>
+		<tag k="ref" v="153169"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="884" version="3">
+		<nd ref="154"/>
+		<nd ref="171"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="884"/>
+		<tag k="ref" v="154155"/>
+		<tag k="id" v="884"/>
+		<tag k="ref" v="154171"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="885" version="3">
+		<nd ref="154"/>
+		<nd ref="155"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="885"/>
+		<tag k="ref" v="15431"/>
+		<tag k="id" v="885"/>
+		<tag k="ref" v="154155"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="886" version="3">
+		<nd ref="154"/>
+		<nd ref="153"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="886"/>
+		<tag k="ref" v="154153"/>
+		<tag k="id" v="886"/>
+		<tag k="ref" v="154153"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="887" version="3">
+		<nd ref="155"/>
+		<nd ref="148"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="887"/>
+		<tag k="ref" v="31156"/>
+		<tag k="id" v="887"/>
+		<tag k="ref" v="155148"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="888" version="3">
+		<nd ref="161"/>
+		<nd ref="155"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="888"/>
+		<tag k="ref" v="3331"/>
+		<tag k="id" v="888"/>
+		<tag k="ref" v="161155"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="889" version="3">
+		<nd ref="156"/>
+		<nd ref="149"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="889"/>
+		<tag k="ref" v="3250"/>
+		<tag k="id" v="889"/>
+		<tag k="ref" v="156149"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="890" version="3">
+		<nd ref="162"/>
+		<nd ref="163"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="890"/>
+		<tag k="ref" v="34113"/>
+		<tag k="id" v="890"/>
+		<tag k="ref" v="162163"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="891" version="3">
+		<nd ref="162"/>
+		<nd ref="156"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="891"/>
+		<tag k="ref" v="3432"/>
+		<tag k="id" v="891"/>
+		<tag k="ref" v="162156"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="893" version="3">
+		<nd ref="163"/>
+		<nd ref="226"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="893"/>
+		<tag k="ref" v="11318"/>
+		<tag k="id" v="893"/>
+		<tag k="ref" v="163226"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="894" version="3">
+		<nd ref="173"/>
+		<nd ref="227"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="894"/>
+		<tag k="ref" v="157158"/>
+		<tag k="id" v="894"/>
+		<tag k="ref" v="173227"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="896" version="3">
+		<nd ref="173"/>
+		<nd ref="183"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="896"/>
+		<tag k="ref" v="15790"/>
+		<tag k="id" v="896"/>
+		<tag k="ref" v="173183"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="897" version="3">
+		<nd ref="173"/>
+		<nd ref="242"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="897"/>
+		<tag k="ref" v="157114"/>
+		<tag k="id" v="897"/>
+		<tag k="ref" v="173242"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="898" version="3">
+		<nd ref="174"/>
+		<nd ref="182"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="898"/>
+		<tag k="ref" v="35159"/>
+		<tag k="id" v="898"/>
+		<tag k="ref" v="174182"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="899" version="3">
+		<nd ref="174"/>
+		<nd ref="170"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="899"/>
+		<tag k="ref" v="3513"/>
+		<tag k="id" v="899"/>
+		<tag k="ref" v="174170"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="900" version="3">
+		<nd ref="174"/>
+		<nd ref="227"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="900"/>
+		<tag k="ref" v="35158"/>
+		<tag k="id" v="900"/>
+		<tag k="ref" v="174227"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="903" version="3">
+		<nd ref="146"/>
+		<nd ref="164"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="903"/>
+		<tag k="ref" v="9798"/>
+		<tag k="id" v="903"/>
+		<tag k="ref" v="146164"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="904" version="3">
+		<nd ref="146"/>
+		<nd ref="160"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="904"/>
+		<tag k="ref" v="9782"/>
+		<tag k="id" v="904"/>
+		<tag k="ref" v="146160"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="907" version="3">
+		<nd ref="146"/>
+		<nd ref="140"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="907"/>
+		<tag k="ref" v="976"/>
+		<tag k="id" v="907"/>
+		<tag k="ref" v="146140"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="910" version="3">
+		<nd ref="71"/>
+		<nd ref="67"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="910"/>
+		<tag k="ref" v="16073"/>
+		<tag k="id" v="910"/>
+		<tag k="ref" v="7167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="911" version="3">
+		<nd ref="72"/>
+		<nd ref="61"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="911"/>
+		<tag k="ref" v="16172"/>
+		<tag k="id" v="911"/>
+		<tag k="ref" v="7261"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="912" version="3">
+		<nd ref="72"/>
+		<nd ref="70"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="912"/>
+		<tag k="ref" v="161162"/>
+		<tag k="id" v="912"/>
+		<tag k="ref" v="7270"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="913" version="3">
+		<nd ref="70"/>
+		<nd ref="73"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="913"/>
+		<tag k="ref" v="16237"/>
+		<tag k="id" v="913"/>
+		<tag k="ref" v="7073"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="914" version="3">
+		<nd ref="70"/>
+		<nd ref="72"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="914"/>
+		<tag k="ref" v="162161"/>
+		<tag k="id" v="914"/>
+		<tag k="ref" v="7072"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="915" version="3">
+		<nd ref="73"/>
+		<nd ref="70"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="915"/>
+		<tag k="ref" v="37162"/>
+		<tag k="id" v="915"/>
+		<tag k="ref" v="7370"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="916" version="3">
+		<nd ref="73"/>
+		<nd ref="76"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="916"/>
+		<tag k="ref" v="3777"/>
+		<tag k="id" v="916"/>
+		<tag k="ref" v="7376"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="922" version="3">
+		<nd ref="19"/>
+		<nd ref="232"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="922"/>
+		<tag k="ref" v="163164"/>
+		<tag k="id" v="922"/>
+		<tag k="ref" v="19232"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="923" version="3">
+		<nd ref="19"/>
+		<nd ref="231"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="923"/>
+		<tag k="ref" v="163165"/>
+		<tag k="id" v="923"/>
+		<tag k="ref" v="19231"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="927" version="3">
+		<nd ref="195"/>
+		<nd ref="187"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="927"/>
+		<tag k="ref" v="58166"/>
+		<tag k="id" v="927"/>
+		<tag k="ref" v="195187"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="928" version="3">
+		<nd ref="195"/>
+		<nd ref="198"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="928"/>
+		<tag k="ref" v="58167"/>
+		<tag k="id" v="928"/>
+		<tag k="ref" v="195198"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="933" version="3">
+		<nd ref="198"/>
+		<nd ref="196"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="933"/>
+		<tag k="ref" v="16757"/>
+		<tag k="id" v="933"/>
+		<tag k="ref" v="198196"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="934" version="3">
+		<nd ref="198"/>
+		<nd ref="200"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="934"/>
+		<tag k="ref" v="167169"/>
+		<tag k="id" v="934"/>
+		<tag k="ref" v="198200"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="935" version="3">
+		<nd ref="198"/>
+		<nd ref="207"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="935"/>
+		<tag k="ref" v="16760"/>
+		<tag k="id" v="935"/>
+		<tag k="ref" v="198207"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="936" version="3">
+		<nd ref="200"/>
+		<nd ref="198"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="936"/>
+		<tag k="ref" v="169167"/>
+		<tag k="id" v="936"/>
+		<tag k="ref" v="200198"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="938" version="3">
+		<nd ref="200"/>
+		<nd ref="215"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="938"/>
+		<tag k="ref" v="169170"/>
+		<tag k="id" v="938"/>
+		<tag k="ref" v="200215"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="942" version="3">
+		<nd ref="199"/>
+		<nd ref="200"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="942"/>
+		<tag k="ref" v="171169"/>
+		<tag k="id" v="942"/>
+		<tag k="ref" v="199200"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="945" version="3">
+		<nd ref="133"/>
+		<nd ref="135"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="945"/>
+		<tag k="ref" v="17241"/>
+		<tag k="id" v="945"/>
+		<tag k="ref" v="133135"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="946" version="3">
+		<nd ref="133"/>
+		<nd ref="144"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="946"/>
+		<tag k="ref" v="17244"/>
+		<tag k="id" v="946"/>
+		<tag k="ref" v="133144"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="947" version="3">
+		<nd ref="126"/>
+		<nd ref="124"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="947"/>
+		<tag k="ref" v="17321"/>
+		<tag k="id" v="947"/>
+		<tag k="ref" v="126124"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="948" version="3">
+		<nd ref="126"/>
+		<nd ref="133"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="948"/>
+		<tag k="ref" v="173172"/>
+		<tag k="id" v="948"/>
+		<tag k="ref" v="126133"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="954" version="3">
+		<nd ref="136"/>
+		<nd ref="238"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="954"/>
+		<tag k="ref" v="40107"/>
+		<tag k="id" v="954"/>
+		<tag k="ref" v="136238"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="955" version="3">
+		<nd ref="135"/>
+		<nd ref="145"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="955"/>
+		<tag k="ref" v="41151"/>
+		<tag k="id" v="955"/>
+		<tag k="ref" v="135145"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="956" version="3">
+		<nd ref="135"/>
+		<nd ref="133"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="956"/>
+		<tag k="ref" v="41172"/>
+		<tag k="id" v="956"/>
+		<tag k="ref" v="135133"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="957" version="3">
+		<nd ref="135"/>
+		<nd ref="124"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="957"/>
+		<tag k="ref" v="4121"/>
+		<tag k="id" v="957"/>
+		<tag k="ref" v="135124"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="958" version="3">
+		<nd ref="145"/>
+		<nd ref="135"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="958"/>
+		<tag k="ref" v="15141"/>
+		<tag k="id" v="958"/>
+		<tag k="ref" v="145135"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="959" version="3">
+		<nd ref="145"/>
+		<nd ref="168"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="959"/>
+		<tag k="ref" v="151146"/>
+		<tag k="id" v="959"/>
+		<tag k="ref" v="145168"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="960" version="3">
+		<nd ref="145"/>
+		<nd ref="144"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="960"/>
+		<tag k="ref" v="15144"/>
+		<tag k="id" v="960"/>
+		<tag k="ref" v="145144"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="961" version="3">
+		<nd ref="124"/>
+		<nd ref="126"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="961"/>
+		<tag k="ref" v="21173"/>
+		<tag k="id" v="961"/>
+		<tag k="ref" v="124126"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="963" version="3">
+		<nd ref="124"/>
+		<nd ref="135"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="963"/>
+		<tag k="ref" v="2141"/>
+		<tag k="id" v="963"/>
+		<tag k="ref" v="124135"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="965" version="3">
+		<nd ref="113"/>
+		<nd ref="120"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="965"/>
+		<tag k="ref" v="19174"/>
+		<tag k="id" v="965"/>
+		<tag k="ref" v="113120"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="971" version="3">
+		<nd ref="110"/>
+		<nd ref="113"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="971"/>
+		<tag k="ref" v="17519"/>
+		<tag k="id" v="971"/>
+		<tag k="ref" v="110113"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="972" version="3">
+		<nd ref="110"/>
+		<nd ref="213"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="972"/>
+		<tag k="ref" v="175176"/>
+		<tag k="id" v="972"/>
+		<tag k="ref" v="110213"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="973" version="3">
+		<nd ref="110"/>
+		<nd ref="109"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="973"/>
+		<tag k="ref" v="175177"/>
+		<tag k="id" v="973"/>
+		<tag k="ref" v="110109"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="974" version="3">
+		<nd ref="127"/>
+		<nd ref="126"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="974"/>
+		<tag k="ref" v="178173"/>
+		<tag k="id" v="974"/>
+		<tag k="ref" v="127126"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="975" version="3">
+		<nd ref="127"/>
+		<nd ref="134"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="975"/>
+		<tag k="ref" v="17842"/>
+		<tag k="id" v="975"/>
+		<tag k="ref" v="127134"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="976" version="3">
+		<nd ref="127"/>
+		<nd ref="213"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="976"/>
+		<tag k="ref" v="178176"/>
+		<tag k="id" v="976"/>
+		<tag k="ref" v="127213"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="977" version="3">
+		<nd ref="127"/>
+		<nd ref="125"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="977"/>
+		<tag k="ref" v="17891"/>
+		<tag k="id" v="977"/>
+		<tag k="ref" v="127125"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="978" version="3">
+		<nd ref="134"/>
+		<nd ref="127"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="978"/>
+		<tag k="ref" v="42178"/>
+		<tag k="id" v="978"/>
+		<tag k="ref" v="134127"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="979" version="3">
+		<nd ref="134"/>
+		<nd ref="133"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="979"/>
+		<tag k="ref" v="42172"/>
+		<tag k="id" v="979"/>
+		<tag k="ref" v="134133"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="980" version="3">
+		<nd ref="134"/>
+		<nd ref="131"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="980"/>
+		<tag k="ref" v="42179"/>
+		<tag k="id" v="980"/>
+		<tag k="ref" v="134131"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="981" version="3">
+		<nd ref="143"/>
+		<nd ref="228"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="981"/>
+		<tag k="ref" v="43100"/>
+		<tag k="id" v="981"/>
+		<tag k="ref" v="143228"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="982" version="3">
+		<nd ref="125"/>
+		<nd ref="234"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="982"/>
+		<tag k="ref" v="91180"/>
+		<tag k="id" v="982"/>
+		<tag k="ref" v="125234"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="983" version="3">
+		<nd ref="83"/>
+		<nd ref="85"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="983"/>
+		<tag k="ref" v="181182"/>
+		<tag k="id" v="983"/>
+		<tag k="ref" v="8385"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="984" version="3">
+		<nd ref="83"/>
+		<nd ref="81"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="984"/>
+		<tag k="ref" v="181183"/>
+		<tag k="id" v="984"/>
+		<tag k="ref" v="8381"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="985" version="3">
+		<nd ref="142"/>
+		<nd ref="139"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="985"/>
+		<tag k="ref" v="101184"/>
+		<tag k="id" v="985"/>
+		<tag k="ref" v="142139"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="986" version="3">
+		<nd ref="142"/>
+		<nd ref="141"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="986"/>
+		<tag k="ref" v="10193"/>
+		<tag k="id" v="986"/>
+		<tag k="ref" v="142141"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="987" version="3">
+		<nd ref="39"/>
+		<nd ref="35"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="987"/>
+		<tag k="ref" v="127185"/>
+		<tag k="id" v="987"/>
+		<tag k="ref" v="3935"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="988" version="3">
+		<nd ref="39"/>
+		<nd ref="40"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="988"/>
+		<tag k="ref" v="1273"/>
+		<tag k="id" v="988"/>
+		<tag k="ref" v="3940"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="990" version="3">
+		<nd ref="85"/>
+		<nd ref="83"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="990"/>
+		<tag k="ref" v="182181"/>
+		<tag k="id" v="990"/>
+		<tag k="ref" v="8583"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="991" version="3">
+		<nd ref="85"/>
+		<nd ref="86"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="991"/>
+		<tag k="ref" v="182116"/>
+		<tag k="id" v="991"/>
+		<tag k="ref" v="8586"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="992" version="3">
+		<nd ref="85"/>
+		<nd ref="94"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="992"/>
+		<tag k="ref" v="182108"/>
+		<tag k="id" v="992"/>
+		<tag k="ref" v="8594"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="994" version="3">
+		<nd ref="78"/>
+		<nd ref="77"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="994"/>
+		<tag k="ref" v="186187"/>
+		<tag k="id" v="994"/>
+		<tag k="ref" v="7877"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="995" version="3">
+		<nd ref="35"/>
+		<nd ref="39"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="995"/>
+		<tag k="ref" v="185127"/>
+		<tag k="id" v="995"/>
+		<tag k="ref" v="3539"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="997" version="3">
+		<nd ref="35"/>
+		<nd ref="37"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="997"/>
+		<tag k="ref" v="18548"/>
+		<tag k="id" v="997"/>
+		<tag k="ref" v="3537"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="999" version="3">
+		<nd ref="116"/>
+		<nd ref="114"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="999"/>
+		<tag k="ref" v="45117"/>
+		<tag k="id" v="999"/>
+		<tag k="ref" v="116114"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1000" version="3">
+		<nd ref="116"/>
+		<nd ref="224"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1000"/>
+		<tag k="ref" v="45188"/>
+		<tag k="id" v="1000"/>
+		<tag k="ref" v="116224"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1003" version="3">
+		<nd ref="86"/>
+		<nd ref="101"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1003"/>
+		<tag k="ref" v="116115"/>
+		<tag k="id" v="1003"/>
+		<tag k="ref" v="86101"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1004" version="3">
+		<nd ref="86"/>
+		<nd ref="85"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1004"/>
+		<tag k="ref" v="116182"/>
+		<tag k="id" v="1004"/>
+		<tag k="ref" v="8685"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1005" version="3">
+		<nd ref="86"/>
+		<nd ref="87"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1005"/>
+		<tag k="ref" v="116189"/>
+		<tag k="id" v="1005"/>
+		<tag k="ref" v="8687"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1006" version="3">
+		<nd ref="118"/>
+		<nd ref="117"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1006"/>
+		<tag k="ref" v="19046"/>
+		<tag k="id" v="1006"/>
+		<tag k="ref" v="118117"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1007" version="3">
+		<nd ref="118"/>
+		<nd ref="221"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1007"/>
+		<tag k="ref" v="190191"/>
+		<tag k="id" v="1007"/>
+		<tag k="ref" v="118221"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1008" version="3">
+		<nd ref="122"/>
+		<nd ref="130"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1008"/>
+		<tag k="ref" v="192193"/>
+		<tag k="id" v="1008"/>
+		<tag k="ref" v="122130"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1009" version="3">
+		<nd ref="122"/>
+		<nd ref="234"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1009"/>
+		<tag k="ref" v="192180"/>
+		<tag k="id" v="1009"/>
+		<tag k="ref" v="122234"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1010" version="3">
+		<nd ref="122"/>
+		<nd ref="221"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1010"/>
+		<tag k="ref" v="192191"/>
+		<tag k="id" v="1010"/>
+		<tag k="ref" v="122221"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1011" version="3">
+		<nd ref="87"/>
+		<nd ref="86"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1011"/>
+		<tag k="ref" v="189116"/>
+		<tag k="id" v="1011"/>
+		<tag k="ref" v="8786"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1012" version="3">
+		<nd ref="87"/>
+		<nd ref="95"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1012"/>
+		<tag k="ref" v="18924"/>
+		<tag k="id" v="1012"/>
+		<tag k="ref" v="8795"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1013" version="3">
+		<nd ref="87"/>
+		<nd ref="233"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1013"/>
+		<tag k="ref" v="189194"/>
+		<tag k="id" v="1013"/>
+		<tag k="ref" v="87233"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1014" version="3">
+		<nd ref="87"/>
+		<nd ref="84"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1014"/>
+		<tag k="ref" v="189119"/>
+		<tag k="id" v="1014"/>
+		<tag k="ref" v="8784"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1015" version="3">
+		<nd ref="95"/>
+		<nd ref="101"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1015"/>
+		<tag k="ref" v="24115"/>
+		<tag k="id" v="1015"/>
+		<tag k="ref" v="95101"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1016" version="3">
+		<nd ref="95"/>
+		<nd ref="87"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1016"/>
+		<tag k="ref" v="24189"/>
+		<tag k="id" v="1016"/>
+		<tag k="ref" v="9587"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1017" version="3">
+		<nd ref="64"/>
+		<nd ref="233"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1017"/>
+		<tag k="ref" v="195194"/>
+		<tag k="id" v="1017"/>
+		<tag k="ref" v="64233"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1018" version="3">
+		<nd ref="64"/>
+		<nd ref="65"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1018"/>
+		<tag k="ref" v="195132"/>
+		<tag k="id" v="1018"/>
+		<tag k="ref" v="6465"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1019" version="3">
+		<nd ref="111"/>
+		<nd ref="108"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1019"/>
+		<tag k="ref" v="19647"/>
+		<tag k="id" v="1019"/>
+		<tag k="ref" v="111108"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1020" version="3">
+		<nd ref="111"/>
+		<nd ref="106"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1020"/>
+		<tag k="ref" v="196197"/>
+		<tag k="id" v="1020"/>
+		<tag k="ref" v="111106"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1021" version="3">
+		<nd ref="111"/>
+		<nd ref="118"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1021"/>
+		<tag k="ref" v="196190"/>
+		<tag k="id" v="1021"/>
+		<tag k="ref" v="111118"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1022" version="3">
+		<nd ref="111"/>
+		<nd ref="129"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1022"/>
+		<tag k="ref" v="196124"/>
+		<tag k="id" v="1022"/>
+		<tag k="ref" v="111129"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1024" version="3">
+		<nd ref="84"/>
+		<nd ref="92"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1024"/>
+		<tag k="ref" v="11923"/>
+		<tag k="id" v="1024"/>
+		<tag k="ref" v="8492"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1025" version="3">
+		<nd ref="84"/>
+		<nd ref="87"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1025"/>
+		<tag k="ref" v="119189"/>
+		<tag k="id" v="1025"/>
+		<tag k="ref" v="8487"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1026" version="3">
+		<nd ref="192"/>
+		<nd ref="194"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1026"/>
+		<tag k="ref" v="3029"/>
+		<tag k="id" v="1026"/>
+		<tag k="ref" v="192194"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1029" version="3">
+		<nd ref="149"/>
+		<nd ref="156"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1029"/>
+		<tag k="ref" v="5032"/>
+		<tag k="id" v="1029"/>
+		<tag k="ref" v="149156"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1030" version="3">
+		<nd ref="149"/>
+		<nd ref="211"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1030"/>
+		<tag k="ref" v="5094"/>
+		<tag k="id" v="1030"/>
+		<tag k="ref" v="149211"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1031" version="3">
+		<nd ref="152"/>
+		<nd ref="240"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1031"/>
+		<tag k="ref" v="51199"/>
+		<tag k="id" v="1031"/>
+		<tag k="ref" v="152240"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1032" version="3">
+		<nd ref="152"/>
+		<nd ref="235"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1032"/>
+		<tag k="ref" v="51200"/>
+		<tag k="id" v="1032"/>
+		<tag k="ref" v="152235"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1033" version="3">
+		<nd ref="130"/>
+		<nd ref="122"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1033"/>
+		<tag k="ref" v="193192"/>
+		<tag k="id" v="1033"/>
+		<tag k="ref" v="130122"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1034" version="3">
+		<nd ref="130"/>
+		<nd ref="214"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1034"/>
+		<tag k="ref" v="193201"/>
+		<tag k="id" v="1034"/>
+		<tag k="ref" v="130214"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1035" version="3">
+		<nd ref="106"/>
+		<nd ref="225"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1035"/>
+		<tag k="ref" v="197126"/>
+		<tag k="id" v="1035"/>
+		<tag k="ref" v="106225"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1036" version="3">
+		<nd ref="106"/>
+		<nd ref="223"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1036"/>
+		<tag k="ref" v="197121"/>
+		<tag k="id" v="1036"/>
+		<tag k="ref" v="106223"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1037" version="3">
+		<nd ref="106"/>
+		<nd ref="111"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1037"/>
+		<tag k="ref" v="197196"/>
+		<tag k="id" v="1037"/>
+		<tag k="ref" v="106111"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1038" version="3">
+		<nd ref="150"/>
+		<nd ref="212"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1038"/>
+		<tag k="ref" v="202203"/>
+		<tag k="id" v="1038"/>
+		<tag k="ref" v="150212"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1039" version="3">
+		<nd ref="159"/>
+		<nd ref="157"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1039"/>
+		<tag k="ref" v="3696"/>
+		<tag k="id" v="1039"/>
+		<tag k="ref" v="159157"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1040" version="3">
+		<nd ref="201"/>
+		<nd ref="203"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1040"/>
+		<tag k="ref" v="204205"/>
+		<tag k="id" v="1040"/>
+		<tag k="ref" v="201203"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1041" version="3">
+		<nd ref="201"/>
+		<nd ref="194"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1041"/>
+		<tag k="ref" v="20429"/>
+		<tag k="id" v="1041"/>
+		<tag k="ref" v="201194"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1051" version="3">
+		<nd ref="114"/>
+		<nd ref="108"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1051"/>
+		<tag k="ref" v="11747"/>
+		<tag k="id" v="1051"/>
+		<tag k="ref" v="114108"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1052" version="3">
+		<nd ref="114"/>
+		<nd ref="116"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1052"/>
+		<tag k="ref" v="11745"/>
+		<tag k="id" v="1052"/>
+		<tag k="ref" v="114116"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1053" version="3">
+		<nd ref="114"/>
+		<nd ref="101"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1053"/>
+		<tag k="ref" v="117115"/>
+		<tag k="id" v="1053"/>
+		<tag k="ref" v="114101"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1054" version="3">
+		<nd ref="108"/>
+		<nd ref="92"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1054"/>
+		<tag k="ref" v="4723"/>
+		<tag k="id" v="1054"/>
+		<tag k="ref" v="10892"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1055" version="3">
+		<nd ref="108"/>
+		<nd ref="114"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1055"/>
+		<tag k="ref" v="47117"/>
+		<tag k="id" v="1055"/>
+		<tag k="ref" v="108114"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1056" version="3">
+		<nd ref="108"/>
+		<nd ref="111"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1056"/>
+		<tag k="ref" v="47196"/>
+		<tag k="id" v="1056"/>
+		<tag k="ref" v="108111"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1064" version="3">
+		<nd ref="150"/>
+		<nd ref="216"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1064"/>
+		<tag k="ref" v="202206"/>
+		<tag k="id" v="1064"/>
+		<tag k="ref" v="150216"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1080" version="3">
+		<nd ref="11"/>
+		<nd ref="6"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1080"/>
+		<tag k="ref" v="52207"/>
+		<tag k="id" v="1080"/>
+		<tag k="ref" v="116"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1081" version="3">
+		<nd ref="13"/>
+		<nd ref="10"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1081"/>
+		<tag k="ref" v="54208"/>
+		<tag k="id" v="1081"/>
+		<tag k="ref" v="1310"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1089" version="3">
+		<nd ref="57"/>
+		<nd ref="49"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1089"/>
+		<tag k="ref" v="13070"/>
+		<tag k="id" v="1089"/>
+		<tag k="ref" v="5749"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1090" version="3">
+		<nd ref="57"/>
+		<nd ref="52"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1090"/>
+		<tag k="ref" v="130209"/>
+		<tag k="id" v="1090"/>
+		<tag k="ref" v="5752"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1095" version="3">
+		<nd ref="210"/>
+		<nd ref="209"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1095"/>
+		<tag k="ref" v="210211"/>
+		<tag k="id" v="1095"/>
+		<tag k="ref" v="210209"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1098" version="3">
+		<nd ref="191"/>
+		<nd ref="181"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1098"/>
+		<tag k="ref" v="5689"/>
+		<tag k="id" v="1098"/>
+		<tag k="ref" v="191181"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1104" version="3">
+		<nd ref="196"/>
+		<nd ref="206"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1104"/>
+		<tag k="ref" v="5759"/>
+		<tag k="id" v="1104"/>
+		<tag k="ref" v="196206"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1106" version="3">
+		<nd ref="206"/>
+		<nd ref="209"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1106"/>
+		<tag k="ref" v="59211"/>
+		<tag k="id" v="1106"/>
+		<tag k="ref" v="206209"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1110" version="3">
+		<nd ref="141"/>
+		<nd ref="142"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1110"/>
+		<tag k="ref" v="93101"/>
+		<tag k="id" v="1110"/>
+		<tag k="ref" v="141142"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1111" version="3">
+		<nd ref="141"/>
+		<nd ref="214"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1111"/>
+		<tag k="ref" v="93201"/>
+		<tag k="id" v="1111"/>
+		<tag k="ref" v="141214"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1112" version="3">
+		<nd ref="132"/>
+		<nd ref="137"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1112"/>
+		<tag k="ref" v="125212"/>
+		<tag k="id" v="1112"/>
+		<tag k="ref" v="132137"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1113" version="3">
+		<nd ref="132"/>
+		<nd ref="216"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1113"/>
+		<tag k="ref" v="125206"/>
+		<tag k="id" v="1113"/>
+		<tag k="ref" v="132216"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1114" version="3">
+		<nd ref="132"/>
+		<nd ref="123"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1114"/>
+		<tag k="ref" v="125123"/>
+		<tag k="id" v="1114"/>
+		<tag k="ref" v="132123"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1131" version="3">
+		<nd ref="33"/>
+		<nd ref="28"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1131"/>
+		<tag k="ref" v="29"/>
+		<tag k="id" v="1131"/>
+		<tag k="ref" v="3328"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1139" version="3">
+		<nd ref="41"/>
+		<nd ref="38"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1139"/>
+		<tag k="ref" v="7675"/>
+		<tag k="id" v="1139"/>
+		<tag k="ref" v="4138"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1143" version="3">
+		<nd ref="128"/>
+		<nd ref="138"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1143"/>
+		<tag k="ref" v="213214"/>
+		<tag k="id" v="1143"/>
+		<tag k="ref" v="128138"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1144" version="3">
+		<nd ref="16"/>
+		<nd ref="15"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1144"/>
+		<tag k="ref" v="6261"/>
+		<tag k="id" v="1144"/>
+		<tag k="ref" v="1615"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1145" version="3">
+		<nd ref="25"/>
+		<nd ref="15"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1145"/>
+		<tag k="ref" v="21561"/>
+		<tag k="id" v="1145"/>
+		<tag k="ref" v="2515"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1147" version="3">
+		<nd ref="25"/>
+		<nd ref="24"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1147"/>
+		<tag k="ref" v="215216"/>
+		<tag k="id" v="1147"/>
+		<tag k="ref" v="2524"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1148" version="3">
+		<nd ref="15"/>
+		<nd ref="14"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1148"/>
+		<tag k="ref" v="61217"/>
+		<tag k="id" v="1148"/>
+		<tag k="ref" v="1514"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1149" version="3">
+		<nd ref="15"/>
+		<nd ref="9"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1149"/>
+		<tag k="ref" v="61218"/>
+		<tag k="id" v="1149"/>
+		<tag k="ref" v="159"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1150" version="3">
+		<nd ref="15"/>
+		<nd ref="25"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1150"/>
+		<tag k="ref" v="61215"/>
+		<tag k="id" v="1150"/>
+		<tag k="ref" v="1525"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1151" version="3">
+		<nd ref="9"/>
+		<nd ref="15"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1151"/>
+		<tag k="ref" v="21861"/>
+		<tag k="id" v="1151"/>
+		<tag k="ref" v="915"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1152" version="3">
+		<nd ref="9"/>
+		<nd ref="7"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1152"/>
+		<tag k="ref" v="218136"/>
+		<tag k="id" v="1152"/>
+		<tag k="ref" v="97"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1153" version="3">
+		<nd ref="14"/>
+		<nd ref="9"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1153"/>
+		<tag k="ref" v="217218"/>
+		<tag k="id" v="1153"/>
+		<tag k="ref" v="149"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1154" version="3">
+		<nd ref="16"/>
+		<nd ref="24"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1154"/>
+		<tag k="ref" v="62216"/>
+		<tag k="id" v="1154"/>
+		<tag k="ref" v="1624"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1165" version="3">
+		<nd ref="94"/>
+		<nd ref="236"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1165"/>
+		<tag k="ref" v="108118"/>
+		<tag k="id" v="1165"/>
+		<tag k="ref" v="94236"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1168" version="3">
+		<nd ref="206"/>
+		<nd ref="196"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1168"/>
+		<tag k="ref" v="5957"/>
+		<tag k="id" v="1168"/>
+		<tag k="ref" v="206196"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1169" version="3">
+		<nd ref="206"/>
+		<nd ref="205"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1169"/>
+		<tag k="ref" v="59144"/>
+		<tag k="id" v="1169"/>
+		<tag k="ref" v="206205"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1194" version="3">
+		<nd ref="205"/>
+		<nd ref="204"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1194"/>
+		<tag k="ref" v="14463"/>
+		<tag k="id" v="1194"/>
+		<tag k="ref" v="205204"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1279" version="3">
+		<nd ref="93"/>
+		<nd ref="104"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1279"/>
+		<tag k="ref" v="219220"/>
+		<tag k="id" v="1279"/>
+		<tag k="ref" v="93104"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1280" version="3">
+		<nd ref="93"/>
+		<nd ref="90"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1280"/>
+		<tag k="ref" v="219221"/>
+		<tag k="id" v="1280"/>
+		<tag k="ref" v="9390"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1296" version="3">
+		<nd ref="43"/>
+		<nd ref="42"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1296"/>
+		<tag k="ref" v="4103"/>
+		<tag k="id" v="1296"/>
+		<tag k="ref" v="4342"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1322" version="3">
+		<nd ref="177"/>
+		<nd ref="178"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1322"/>
+		<tag k="ref" v="22280"/>
+		<tag k="id" v="1322"/>
+		<tag k="ref" v="177178"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1325" version="3">
+		<nd ref="204"/>
+		<nd ref="190"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1325"/>
+		<tag k="ref" v="6366"/>
+		<tag k="id" v="1325"/>
+		<tag k="ref" v="204190"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1326" version="3">
+		<nd ref="171"/>
+		<nd ref="154"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1326"/>
+		<tag k="ref" v="155154"/>
+		<tag k="id" v="1326"/>
+		<tag k="ref" v="171154"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1327" version="3">
+		<nd ref="171"/>
+		<nd ref="179"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1327"/>
+		<tag k="ref" v="155110"/>
+		<tag k="id" v="1327"/>
+		<tag k="ref" v="171179"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1328" version="3">
+		<nd ref="171"/>
+		<nd ref="237"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1328"/>
+		<tag k="ref" v="155104"/>
+		<tag k="id" v="1328"/>
+		<tag k="ref" v="171237"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1329" version="3">
+		<nd ref="171"/>
+		<nd ref="169"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1329"/>
+		<tag k="ref" v="155149"/>
+		<tag k="id" v="1329"/>
+		<tag k="ref" v="171169"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1330" version="3">
+		<nd ref="188"/>
+		<nd ref="179"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1330"/>
+		<tag k="ref" v="65110"/>
+		<tag k="id" v="1330"/>
+		<tag k="ref" v="188179"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1331" version="3">
+		<nd ref="188"/>
+		<nd ref="186"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1331"/>
+		<tag k="ref" v="6579"/>
+		<tag k="id" v="1331"/>
+		<tag k="ref" v="188186"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1332" version="3">
+		<nd ref="188"/>
+		<nd ref="187"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1332"/>
+		<tag k="ref" v="65166"/>
+		<tag k="id" v="1332"/>
+		<tag k="ref" v="188187"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1333" version="3">
+		<nd ref="179"/>
+		<nd ref="171"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1333"/>
+		<tag k="ref" v="110155"/>
+		<tag k="id" v="1333"/>
+		<tag k="ref" v="179171"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1334" version="3">
+		<nd ref="179"/>
+		<nd ref="188"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1334"/>
+		<tag k="ref" v="11065"/>
+		<tag k="id" v="1334"/>
+		<tag k="ref" v="179188"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1340" version="3">
+		<nd ref="184"/>
+		<nd ref="168"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1340"/>
+		<tag k="ref" v="223146"/>
+		<tag k="id" v="1340"/>
+		<tag k="ref" v="184168"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1371" version="3">
+		<nd ref="10"/>
+		<nd ref="13"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1371"/>
+		<tag k="ref" v="20854"/>
+		<tag k="id" v="1371"/>
+		<tag k="ref" v="1013"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1373" version="3">
+		<nd ref="21"/>
+		<nd ref="14"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1373"/>
+		<tag k="ref" v="137217"/>
+		<tag k="id" v="1373"/>
+		<tag k="ref" v="2114"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1375" version="3">
+		<nd ref="56"/>
+		<nd ref="67"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1375"/>
+		<tag k="ref" v="2873"/>
+		<tag k="id" v="1375"/>
+		<tag k="ref" v="5667"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1380" version="3">
+		<nd ref="97"/>
+		<nd ref="113"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1380"/>
+		<tag k="ref" v="22419"/>
+		<tag k="id" v="1380"/>
+		<tag k="ref" v="97113"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1382" version="3">
+		<nd ref="113"/>
+		<nd ref="110"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1382"/>
+		<tag k="ref" v="19175"/>
+		<tag k="id" v="1382"/>
+		<tag k="ref" v="113110"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1386" version="3">
+		<nd ref="31"/>
+		<nd ref="29"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1386"/>
+		<tag k="ref" v="225226"/>
+		<tag k="id" v="1386"/>
+		<tag k="ref" v="3129"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1387" version="3">
+		<nd ref="31"/>
+		<nd ref="32"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1387"/>
+		<tag k="ref" v="225227"/>
+		<tag k="id" v="1387"/>
+		<tag k="ref" v="3132"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1388" version="3">
+		<nd ref="3"/>
+		<nd ref="29"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1388"/>
+		<tag k="ref" v="228226"/>
+		<tag k="id" v="1388"/>
+		<tag k="ref" v="329"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1413" version="3">
+		<nd ref="117"/>
+		<nd ref="118"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1413"/>
+		<tag k="ref" v="46190"/>
+		<tag k="id" v="1413"/>
+		<tag k="ref" v="117118"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1414" version="3">
+		<nd ref="117"/>
+		<nd ref="118"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1414"/>
+		<tag k="ref" v="46190"/>
+		<tag k="id" v="1414"/>
+		<tag k="ref" v="117118"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1415" version="3">
+		<nd ref="118"/>
+		<nd ref="111"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1415"/>
+		<tag k="ref" v="190196"/>
+		<tag k="id" v="1415"/>
+		<tag k="ref" v="118111"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1416" version="3">
+		<nd ref="118"/>
+		<nd ref="117"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1416"/>
+		<tag k="ref" v="19046"/>
+		<tag k="id" v="1416"/>
+		<tag k="ref" v="118117"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1418" version="3">
+		<nd ref="12"/>
+		<nd ref="14"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1418"/>
+		<tag k="ref" v="53217"/>
+		<tag k="id" v="1418"/>
+		<tag k="ref" v="1214"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1419" version="3">
+		<nd ref="17"/>
+		<nd ref="10"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1419"/>
+		<tag k="ref" v="67208"/>
+		<tag k="id" v="1419"/>
+		<tag k="ref" v="1710"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1420" version="3">
+		<nd ref="27"/>
+		<nd ref="30"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1420"/>
+		<tag k="ref" v="838"/>
+		<tag k="id" v="1420"/>
+		<tag k="ref" v="2730"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1421" version="3">
+		<nd ref="17"/>
+		<nd ref="21"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1421"/>
+		<tag k="ref" v="67137"/>
+		<tag k="id" v="1421"/>
+		<tag k="ref" v="1721"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1422" version="3">
+		<nd ref="17"/>
+		<nd ref="20"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1422"/>
+		<tag k="ref" v="6755"/>
+		<tag k="id" v="1422"/>
+		<tag k="ref" v="1720"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1423" version="3">
+		<nd ref="20"/>
+		<nd ref="17"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1423"/>
+		<tag k="ref" v="5567"/>
+		<tag k="id" v="1423"/>
+		<tag k="ref" v="2017"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1424" version="3">
+		<nd ref="6"/>
+		<nd ref="11"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1424"/>
+		<tag k="ref" v="20752"/>
+		<tag k="id" v="1424"/>
+		<tag k="ref" v="611"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1425" version="3">
+		<nd ref="6"/>
+		<nd ref="9"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1425"/>
+		<tag k="ref" v="207218"/>
+		<tag k="id" v="1425"/>
+		<tag k="ref" v="69"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1427" version="3">
+		<nd ref="63"/>
+		<nd ref="64"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1427"/>
+		<tag k="ref" v="68195"/>
+		<tag k="id" v="1427"/>
+		<tag k="ref" v="6364"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1437" version="3">
+		<nd ref="5"/>
+		<nd ref="3"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1437"/>
+		<tag k="ref" v="229228"/>
+		<tag k="id" v="1437"/>
+		<tag k="ref" v="53"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1503" version="3">
+		<nd ref="46"/>
+		<nd ref="49"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1503"/>
+		<tag k="ref" v="12870"/>
+		<tag k="id" v="1503"/>
+		<tag k="ref" v="4649"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1504" version="3">
+		<nd ref="57"/>
+		<nd ref="56"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1504"/>
+		<tag k="ref" v="13028"/>
+		<tag k="id" v="1504"/>
+		<tag k="ref" v="5756"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1505" version="3">
+		<nd ref="57"/>
+		<nd ref="61"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1505"/>
+		<tag k="ref" v="13072"/>
+		<tag k="id" v="1505"/>
+		<tag k="ref" v="5761"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1506" version="3">
+		<nd ref="72"/>
+		<nd ref="71"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1506"/>
+		<tag k="ref" v="161160"/>
+		<tag k="id" v="1506"/>
+		<tag k="ref" v="7271"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1507" version="3">
+		<nd ref="72"/>
+		<nd ref="79"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1507"/>
+		<tag k="ref" v="161230"/>
+		<tag k="id" v="1507"/>
+		<tag k="ref" v="7279"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1510" version="3">
+		<nd ref="24"/>
+		<nd ref="25"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1510"/>
+		<tag k="ref" v="216215"/>
+		<tag k="id" v="1510"/>
+		<tag k="ref" v="2425"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1511" version="3">
+		<nd ref="24"/>
+		<nd ref="28"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1511"/>
+		<tag k="ref" v="2169"/>
+		<tag k="id" v="1511"/>
+		<tag k="ref" v="2428"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1517" version="3">
+		<nd ref="168"/>
+		<nd ref="169"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1517"/>
+		<tag k="ref" v="146149"/>
+		<tag k="id" v="1517"/>
+		<tag k="ref" v="168169"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1518" version="3">
+		<nd ref="168"/>
+		<nd ref="167"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1518"/>
+		<tag k="ref" v="14699"/>
+		<tag k="id" v="1518"/>
+		<tag k="ref" v="168167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1519" version="3">
+		<nd ref="168"/>
+		<nd ref="184"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1519"/>
+		<tag k="ref" v="146223"/>
+		<tag k="id" v="1519"/>
+		<tag k="ref" v="168184"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1520" version="3">
+		<nd ref="168"/>
+		<nd ref="145"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1520"/>
+		<tag k="ref" v="146151"/>
+		<tag k="id" v="1520"/>
+		<tag k="ref" v="168145"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1527" version="3">
+		<nd ref="49"/>
+		<nd ref="57"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1527"/>
+		<tag k="ref" v="70130"/>
+		<tag k="id" v="1527"/>
+		<tag k="ref" v="4957"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1528" version="3">
+		<nd ref="61"/>
+		<nd ref="72"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1528"/>
+		<tag k="ref" v="72161"/>
+		<tag k="id" v="1528"/>
+		<tag k="ref" v="6172"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1529" version="3">
+		<nd ref="67"/>
+		<nd ref="56"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1529"/>
+		<tag k="ref" v="7328"/>
+		<tag k="id" v="1529"/>
+		<tag k="ref" v="6756"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1530" version="3">
+		<nd ref="67"/>
+		<nd ref="71"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1530"/>
+		<tag k="ref" v="73160"/>
+		<tag k="id" v="1530"/>
+		<tag k="ref" v="6771"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1531" version="3">
+		<nd ref="67"/>
+		<nd ref="66"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1531"/>
+		<tag k="ref" v="73143"/>
+		<tag k="id" v="1531"/>
+		<tag k="ref" v="6766"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1541" version="3">
+		<nd ref="71"/>
+		<nd ref="72"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1541"/>
+		<tag k="ref" v="160161"/>
+		<tag k="id" v="1541"/>
+		<tag k="ref" v="7172"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1543" version="3">
+		<nd ref="94"/>
+		<nd ref="85"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1543"/>
+		<tag k="ref" v="108182"/>
+		<tag k="id" v="1543"/>
+		<tag k="ref" v="9485"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1548" version="3">
+		<nd ref="32"/>
+		<nd ref="31"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1548"/>
+		<tag k="ref" v="227225"/>
+		<tag k="id" v="1548"/>
+		<tag k="ref" v="3231"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1549" version="3">
+		<nd ref="32"/>
+		<nd ref="36"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1549"/>
+		<tag k="ref" v="227231"/>
+		<tag k="id" v="1549"/>
+		<tag k="ref" v="3236"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1566" version="3">
+		<nd ref="79"/>
+		<nd ref="72"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1566"/>
+		<tag k="ref" v="230161"/>
+		<tag k="id" v="1566"/>
+		<tag k="ref" v="7972"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1578" version="3">
+		<nd ref="126"/>
+		<nd ref="127"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1578"/>
+		<tag k="ref" v="173178"/>
+		<tag k="id" v="1578"/>
+		<tag k="ref" v="126127"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1579" version="3">
+		<nd ref="126"/>
+		<nd ref="120"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1579"/>
+		<tag k="ref" v="173174"/>
+		<tag k="id" v="1579"/>
+		<tag k="ref" v="126120"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1589" version="3">
+		<nd ref="209"/>
+		<nd ref="210"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1589"/>
+		<tag k="ref" v="211210"/>
+		<tag k="id" v="1589"/>
+		<tag k="ref" v="209210"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1590" version="3">
+		<nd ref="209"/>
+		<nd ref="206"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1590"/>
+		<tag k="ref" v="21159"/>
+		<tag k="id" v="1590"/>
+		<tag k="ref" v="209206"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1596" version="3">
+		<nd ref="207"/>
+		<nd ref="198"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1596"/>
+		<tag k="ref" v="60167"/>
+		<tag k="id" v="1596"/>
+		<tag k="ref" v="207198"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1597" version="3">
+		<nd ref="207"/>
+		<nd ref="206"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1597"/>
+		<tag k="ref" v="6059"/>
+		<tag k="id" v="1597"/>
+		<tag k="ref" v="207206"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1599" version="3">
+		<nd ref="159"/>
+		<nd ref="226"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1599"/>
+		<tag k="ref" v="3618"/>
+		<tag k="id" v="1599"/>
+		<tag k="ref" v="159226"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1607" version="3">
+		<nd ref="56"/>
+		<nd ref="57"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1607"/>
+		<tag k="ref" v="28130"/>
+		<tag k="id" v="1607"/>
+		<tag k="ref" v="5657"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1608" version="3">
+		<nd ref="56"/>
+		<nd ref="47"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1608"/>
+		<tag k="ref" v="2874"/>
+		<tag k="id" v="1608"/>
+		<tag k="ref" v="5647"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1609" version="3">
+		<nd ref="4"/>
+		<nd ref="7"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1609"/>
+		<tag k="ref" v="11136"/>
+		<tag k="id" v="1609"/>
+		<tag k="ref" v="47"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1611" version="3">
+		<nd ref="8"/>
+		<nd ref="16"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1611"/>
+		<tag k="ref" v="1262"/>
+		<tag k="id" v="1611"/>
+		<tag k="ref" v="816"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1612" version="3">
+		<nd ref="14"/>
+		<nd ref="15"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1612"/>
+		<tag k="ref" v="21761"/>
+		<tag k="id" v="1612"/>
+		<tag k="ref" v="1415"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1614" version="3">
+		<nd ref="1"/>
+		<nd ref="2"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1614"/>
+		<tag k="ref" v="232134"/>
+		<tag k="id" v="1614"/>
+		<tag k="ref" v="12"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1615" version="3">
+		<nd ref="103"/>
+		<nd ref="107"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1615"/>
+		<tag k="ref" v="233234"/>
+		<tag k="id" v="1615"/>
+		<tag k="ref" v="103107"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1618" version="3">
+		<nd ref="21"/>
+		<nd ref="17"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1618"/>
+		<tag k="ref" v="13767"/>
+		<tag k="id" v="1618"/>
+		<tag k="ref" v="2117"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1619" version="3">
+		<nd ref="14"/>
+		<nd ref="12"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1619"/>
+		<tag k="ref" v="21753"/>
+		<tag k="id" v="1619"/>
+		<tag k="ref" v="1412"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1620" version="3">
+		<nd ref="14"/>
+		<nd ref="21"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1620"/>
+		<tag k="ref" v="217137"/>
+		<tag k="id" v="1620"/>
+		<tag k="ref" v="1421"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1621" version="3">
+		<nd ref="7"/>
+		<nd ref="9"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1621"/>
+		<tag k="ref" v="136218"/>
+		<tag k="id" v="1621"/>
+		<tag k="ref" v="79"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1630" version="3">
+		<nd ref="144"/>
+		<nd ref="133"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1630"/>
+		<tag k="ref" v="44172"/>
+		<tag k="id" v="1630"/>
+		<tag k="ref" v="144133"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1631" version="3">
+		<nd ref="153"/>
+		<nd ref="154"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1631"/>
+		<tag k="ref" v="153154"/>
+		<tag k="id" v="1631"/>
+		<tag k="ref" v="153154"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1632" version="3">
+		<nd ref="153"/>
+		<nd ref="147"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1632"/>
+		<tag k="ref" v="153152"/>
+		<tag k="id" v="1632"/>
+		<tag k="ref" v="153147"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1636" version="3">
+		<nd ref="37"/>
+		<nd ref="38"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1636"/>
+		<tag k="ref" v="4875"/>
+		<tag k="id" v="1636"/>
+		<tag k="ref" v="3738"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1637" version="3">
+		<nd ref="37"/>
+		<nd ref="35"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1637"/>
+		<tag k="ref" v="48185"/>
+		<tag k="id" v="1637"/>
+		<tag k="ref" v="3735"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1638" version="3">
+		<nd ref="36"/>
+		<nd ref="230"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1638"/>
+		<tag k="ref" v="231133"/>
+		<tag k="id" v="1638"/>
+		<tag k="ref" v="36230"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1639" version="3">
+		<nd ref="36"/>
+		<nd ref="32"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1639"/>
+		<tag k="ref" v="231227"/>
+		<tag k="id" v="1639"/>
+		<tag k="ref" v="3632"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1640" version="3">
+		<nd ref="36"/>
+		<nd ref="34"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1640"/>
+		<tag k="ref" v="23149"/>
+		<tag k="id" v="1640"/>
+		<tag k="ref" v="3634"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1642" version="3">
+		<nd ref="197"/>
+		<nd ref="215"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1642"/>
+		<tag k="ref" v="235170"/>
+		<tag k="id" v="1642"/>
+		<tag k="ref" v="197215"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1643" version="3">
+		<nd ref="197"/>
+		<nd ref="219"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1643"/>
+		<tag k="ref" v="23515"/>
+		<tag k="id" v="1643"/>
+		<tag k="ref" v="197219"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1650" version="3">
+		<nd ref="109"/>
+		<nd ref="110"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1650"/>
+		<tag k="ref" v="177175"/>
+		<tag k="id" v="1650"/>
+		<tag k="ref" v="109110"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1651" version="3">
+		<nd ref="109"/>
+		<nd ref="119"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1651"/>
+		<tag k="ref" v="17792"/>
+		<tag k="id" v="1651"/>
+		<tag k="ref" v="109119"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1652" version="3">
+		<nd ref="91"/>
+		<nd ref="99"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1652"/>
+		<tag k="ref" v="2625"/>
+		<tag k="id" v="1652"/>
+		<tag k="ref" v="9199"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1653" version="3">
+		<nd ref="74"/>
+		<nd ref="76"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1653"/>
+		<tag k="ref" v="3877"/>
+		<tag k="id" v="1653"/>
+		<tag k="ref" v="7476"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1654" version="3">
+		<nd ref="63"/>
+		<nd ref="68"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1654"/>
+		<tag k="ref" v="68236"/>
+		<tag k="id" v="1654"/>
+		<tag k="ref" v="6368"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1655" version="3">
+		<nd ref="53"/>
+		<nd ref="58"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1655"/>
+		<tag k="ref" v="69138"/>
+		<tag k="id" v="1655"/>
+		<tag k="ref" v="5358"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1656" version="3">
+		<nd ref="41"/>
+		<nd ref="50"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1656"/>
+		<tag k="ref" v="76141"/>
+		<tag k="id" v="1656"/>
+		<tag k="ref" v="4150"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1657" version="3">
+		<nd ref="83"/>
+		<nd ref="88"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1657"/>
+		<tag k="ref" v="181135"/>
+		<tag k="id" v="1657"/>
+		<tag k="ref" v="8388"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1658" version="3">
+		<nd ref="78"/>
+		<nd ref="81"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1658"/>
+		<tag k="ref" v="186183"/>
+		<tag k="id" v="1658"/>
+		<tag k="ref" v="7881"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1660" version="3">
+		<nd ref="125"/>
+		<nd ref="131"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1660"/>
+		<tag k="ref" v="91179"/>
+		<tag k="id" v="1660"/>
+		<tag k="ref" v="125131"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1661" version="3">
+		<nd ref="125"/>
+		<nd ref="127"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1661"/>
+		<tag k="ref" v="91178"/>
+		<tag k="id" v="1661"/>
+		<tag k="ref" v="125127"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1662" version="3">
+		<nd ref="142"/>
+		<nd ref="148"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1662"/>
+		<tag k="ref" v="101156"/>
+		<tag k="id" v="1662"/>
+		<tag k="ref" v="142148"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1663" version="3">
+		<nd ref="155"/>
+		<nd ref="154"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1663"/>
+		<tag k="ref" v="31154"/>
+		<tag k="id" v="1663"/>
+		<tag k="ref" v="155154"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1664" version="3">
+		<nd ref="155"/>
+		<nd ref="172"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1664"/>
+		<tag k="ref" v="31105"/>
+		<tag k="id" v="1664"/>
+		<tag k="ref" v="155172"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1666" version="3">
+		<nd ref="195"/>
+		<nd ref="205"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1666"/>
+		<tag k="ref" v="58144"/>
+		<tag k="id" v="1666"/>
+		<tag k="ref" v="195205"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1667" version="3">
+		<nd ref="131"/>
+		<nd ref="134"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1667"/>
+		<tag k="ref" v="17942"/>
+		<tag k="id" v="1667"/>
+		<tag k="ref" v="131134"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1668" version="3">
+		<nd ref="131"/>
+		<nd ref="139"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1668"/>
+		<tag k="ref" v="179184"/>
+		<tag k="id" v="1668"/>
+		<tag k="ref" v="131139"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1691" version="3">
+		<nd ref="163"/>
+		<nd ref="162"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1691"/>
+		<tag k="ref" v="11334"/>
+		<tag k="id" v="1691"/>
+		<tag k="ref" v="163162"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1692" version="3">
+		<nd ref="163"/>
+		<nd ref="235"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1692"/>
+		<tag k="ref" v="113200"/>
+		<tag k="id" v="1692"/>
+		<tag k="ref" v="163235"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1707" version="3">
+		<nd ref="76"/>
+		<nd ref="77"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1707"/>
+		<tag k="ref" v="77187"/>
+		<tag k="id" v="1707"/>
+		<tag k="ref" v="7677"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1708" version="3">
+		<nd ref="76"/>
+		<nd ref="74"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1708"/>
+		<tag k="ref" v="7738"/>
+		<tag k="id" v="1708"/>
+		<tag k="ref" v="7674"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1709" version="3">
+		<nd ref="52"/>
+		<nd ref="62"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1709"/>
+		<tag k="ref" v="209129"/>
+		<tag k="id" v="1709"/>
+		<tag k="ref" v="5262"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1710" version="3">
+		<nd ref="52"/>
+		<nd ref="57"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1710"/>
+		<tag k="ref" v="209130"/>
+		<tag k="id" v="1710"/>
+		<tag k="ref" v="5257"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1711" version="3">
+		<nd ref="62"/>
+		<nd ref="61"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1711"/>
+		<tag k="ref" v="12972"/>
+		<tag k="id" v="1711"/>
+		<tag k="ref" v="6261"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1712" version="3">
+		<nd ref="62"/>
+		<nd ref="52"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1712"/>
+		<tag k="ref" v="129209"/>
+		<tag k="id" v="1712"/>
+		<tag k="ref" v="6252"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1713" version="3">
+		<nd ref="62"/>
+		<nd ref="60"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1713"/>
+		<tag k="ref" v="129140"/>
+		<tag k="id" v="1713"/>
+		<tag k="ref" v="6260"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1714" version="3">
+		<nd ref="60"/>
+		<nd ref="63"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1714"/>
+		<tag k="ref" v="14068"/>
+		<tag k="id" v="1714"/>
+		<tag k="ref" v="6063"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1719" version="3">
+		<nd ref="75"/>
+		<nd ref="82"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1719"/>
+		<tag k="ref" v="237238"/>
+		<tag k="id" v="1719"/>
+		<tag k="ref" v="7582"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1722" version="3">
+		<nd ref="94"/>
+		<nd ref="224"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1722"/>
+		<tag k="ref" v="108188"/>
+		<tag k="id" v="1722"/>
+		<tag k="ref" v="94224"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1723" version="3">
+		<nd ref="99"/>
+		<nd ref="109"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1723"/>
+		<tag k="ref" v="25177"/>
+		<tag k="id" v="1723"/>
+		<tag k="ref" v="99109"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1727" version="3">
+		<nd ref="69"/>
+		<nd ref="73"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1727"/>
+		<tag k="ref" v="3937"/>
+		<tag k="id" v="1727"/>
+		<tag k="ref" v="6973"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1728" version="3">
+		<nd ref="74"/>
+		<nd ref="69"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1728"/>
+		<tag k="ref" v="3839"/>
+		<tag k="id" v="1728"/>
+		<tag k="ref" v="7469"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1729" version="3">
+		<nd ref="69"/>
+		<nd ref="68"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1729"/>
+		<tag k="ref" v="39236"/>
+		<tag k="id" v="1729"/>
+		<tag k="ref" v="6968"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1730" version="3">
+		<nd ref="187"/>
+		<nd ref="188"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1730"/>
+		<tag k="ref" v="16665"/>
+		<tag k="id" v="1730"/>
+		<tag k="ref" v="187188"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1731" version="3">
+		<nd ref="187"/>
+		<nd ref="195"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1731"/>
+		<tag k="ref" v="16658"/>
+		<tag k="id" v="1731"/>
+		<tag k="ref" v="187195"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1754" version="3">
+		<nd ref="133"/>
+		<nd ref="134"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1754"/>
+		<tag k="ref" v="17242"/>
+		<tag k="id" v="1754"/>
+		<tag k="ref" v="133134"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1755" version="3">
+		<nd ref="133"/>
+		<nd ref="126"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1755"/>
+		<tag k="ref" v="172173"/>
+		<tag k="id" v="1755"/>
+		<tag k="ref" v="133126"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1756" version="3">
+		<nd ref="169"/>
+		<nd ref="171"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1756"/>
+		<tag k="ref" v="149155"/>
+		<tag k="id" v="1756"/>
+		<tag k="ref" v="169171"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1757" version="3">
+		<nd ref="169"/>
+		<nd ref="153"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1757"/>
+		<tag k="ref" v="149153"/>
+		<tag k="id" v="1757"/>
+		<tag k="ref" v="169153"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1761" version="3">
+		<nd ref="45"/>
+		<nd ref="42"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1761"/>
+		<tag k="ref" v="142103"/>
+		<tag k="id" v="1761"/>
+		<tag k="ref" v="4542"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1762" version="3">
+		<nd ref="48"/>
+		<nd ref="45"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1762"/>
+		<tag k="ref" v="71142"/>
+		<tag k="id" v="1762"/>
+		<tag k="ref" v="4845"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1764" version="3">
+		<nd ref="97"/>
+		<nd ref="102"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1764"/>
+		<tag k="ref" v="224239"/>
+		<tag k="id" v="1764"/>
+		<tag k="ref" v="97102"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1790" version="3">
+		<nd ref="156"/>
+		<nd ref="162"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1790"/>
+		<tag k="ref" v="3234"/>
+		<tag k="id" v="1790"/>
+		<tag k="ref" v="156162"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1791" version="3">
+		<nd ref="150"/>
+		<nd ref="151"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1791"/>
+		<tag k="ref" v="20216"/>
+		<tag k="id" v="1791"/>
+		<tag k="ref" v="150151"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1793" version="3">
+		<nd ref="182"/>
+		<nd ref="174"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1793"/>
+		<tag k="ref" v="15935"/>
+		<tag k="id" v="1793"/>
+		<tag k="ref" v="182174"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1799" version="3">
+		<nd ref="121"/>
+		<nd ref="115"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1799"/>
+		<tag k="ref" v="5240"/>
+		<tag k="id" v="1799"/>
+		<tag k="ref" v="121115"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1806" version="3">
+		<nd ref="202"/>
+		<nd ref="204"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1806"/>
+		<tag k="ref" v="6463"/>
+		<tag k="id" v="1806"/>
+		<tag k="ref" v="202204"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1807" version="3">
+		<nd ref="202"/>
+		<nd ref="193"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1807"/>
+		<tag k="ref" v="64241"/>
+		<tag k="id" v="1807"/>
+		<tag k="ref" v="202193"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1808" version="3">
+		<nd ref="186"/>
+		<nd ref="188"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1808"/>
+		<tag k="ref" v="7965"/>
+		<tag k="id" v="1808"/>
+		<tag k="ref" v="186188"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1813" version="3">
+		<nd ref="157"/>
+		<nd ref="212"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1813"/>
+		<tag k="ref" v="96203"/>
+		<tag k="id" v="1813"/>
+		<tag k="ref" v="157212"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1814" version="3">
+		<nd ref="157"/>
+		<nd ref="159"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1814"/>
+		<tag k="ref" v="9636"/>
+		<tag k="id" v="1814"/>
+		<tag k="ref" v="157159"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1819" version="3">
+		<nd ref="194"/>
+		<nd ref="201"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1819"/>
+		<tag k="ref" v="29204"/>
+		<tag k="id" v="1819"/>
+		<tag k="ref" v="194201"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1820" version="3">
+		<nd ref="194"/>
+		<nd ref="185"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1820"/>
+		<tag k="ref" v="29242"/>
+		<tag k="id" v="1820"/>
+		<tag k="ref" v="194185"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1821" version="3">
+		<nd ref="165"/>
+		<nd ref="166"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1821"/>
+		<tag k="ref" v="81145"/>
+		<tag k="id" v="1821"/>
+		<tag k="ref" v="165166"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1898" version="3">
+		<nd ref="90"/>
+		<nd ref="93"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1898"/>
+		<tag k="ref" v="221219"/>
+		<tag k="id" v="1898"/>
+		<tag k="ref" v="9093"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1899" version="3">
+		<nd ref="90"/>
+		<nd ref="59"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1899"/>
+		<tag k="ref" v="22122"/>
+		<tag k="id" v="1899"/>
+		<tag k="ref" v="9059"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1906" version="3">
+		<nd ref="26"/>
+		<nd ref="20"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1906"/>
+		<tag k="ref" v="24355"/>
+		<tag k="id" v="1906"/>
+		<tag k="ref" v="2620"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1907" version="3">
+		<nd ref="26"/>
+		<nd ref="27"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1907"/>
+		<tag k="ref" v="24383"/>
+		<tag k="id" v="1907"/>
+		<tag k="ref" v="2627"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1969" version="3">
+		<nd ref="18"/>
+		<nd ref="23"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1969"/>
+		<tag k="ref" v="24485"/>
+		<tag k="id" v="1969"/>
+		<tag k="ref" v="1823"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1970" version="3">
+		<nd ref="18"/>
+		<nd ref="13"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1970"/>
+		<tag k="ref" v="24454"/>
+		<tag k="id" v="1970"/>
+		<tag k="ref" v="1813"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1973" version="3">
+		<nd ref="13"/>
+		<nd ref="18"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1973"/>
+		<tag k="ref" v="54244"/>
+		<tag k="id" v="1973"/>
+		<tag k="ref" v="1318"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1975" version="3">
+		<nd ref="10"/>
+		<nd ref="17"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1975"/>
+		<tag k="ref" v="20867"/>
+		<tag k="id" v="1975"/>
+		<tag k="ref" v="1017"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1981" version="3">
+		<nd ref="9"/>
+		<nd ref="14"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1981"/>
+		<tag k="ref" v="218217"/>
+		<tag k="id" v="1981"/>
+		<tag k="ref" v="914"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1982" version="3">
+		<nd ref="9"/>
+		<nd ref="6"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1982"/>
+		<tag k="ref" v="218207"/>
+		<tag k="id" v="1982"/>
+		<tag k="ref" v="96"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1993" version="3">
+		<nd ref="27"/>
+		<nd ref="26"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1993"/>
+		<tag k="ref" v="83243"/>
+		<tag k="id" v="1993"/>
+		<tag k="ref" v="2726"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1998" version="3">
+		<nd ref="23"/>
+		<nd ref="27"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1998"/>
+		<tag k="ref" v="8583"/>
+		<tag k="id" v="1998"/>
+		<tag k="ref" v="2327"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="1999" version="3">
+		<nd ref="23"/>
+		<nd ref="22"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="1999"/>
+		<tag k="ref" v="8584"/>
+		<tag k="id" v="1999"/>
+		<tag k="ref" v="2322"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2000" version="3">
+		<nd ref="22"/>
+		<nd ref="20"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2000"/>
+		<tag k="ref" v="8455"/>
+		<tag k="id" v="2000"/>
+		<tag k="ref" v="2220"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2003" version="3">
+		<nd ref="20"/>
+		<nd ref="26"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2003"/>
+		<tag k="ref" v="55243"/>
+		<tag k="id" v="2003"/>
+		<tag k="ref" v="2026"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2005" version="3">
+		<nd ref="23"/>
+		<nd ref="18"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2005"/>
+		<tag k="ref" v="85244"/>
+		<tag k="id" v="2005"/>
+		<tag k="ref" v="2318"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2006" version="3">
+		<nd ref="20"/>
+		<nd ref="22"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2006"/>
+		<tag k="ref" v="5584"/>
+		<tag k="id" v="2006"/>
+		<tag k="ref" v="2022"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2008" version="3">
+		<nd ref="96"/>
+		<nd ref="112"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2008"/>
+		<tag k="ref" v="245246"/>
+		<tag k="id" v="2008"/>
+		<tag k="ref" v="96112"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2009" version="3">
+		<nd ref="165"/>
+		<nd ref="185"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2009"/>
+		<tag k="ref" v="81242"/>
+		<tag k="id" v="2009"/>
+		<tag k="ref" v="165185"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2010" version="3">
+		<nd ref="178"/>
+		<nd ref="177"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2010"/>
+		<tag k="ref" v="80222"/>
+		<tag k="id" v="2010"/>
+		<tag k="ref" v="178177"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2012" version="3">
+		<nd ref="190"/>
+		<nd ref="189"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2012"/>
+		<tag k="ref" v="6687"/>
+		<tag k="id" v="2012"/>
+		<tag k="ref" v="190189"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2013" version="3">
+		<nd ref="189"/>
+		<nd ref="186"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2013"/>
+		<tag k="ref" v="8779"/>
+		<tag k="id" v="2013"/>
+		<tag k="ref" v="189186"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2014" version="3">
+		<nd ref="189"/>
+		<nd ref="193"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2014"/>
+		<tag k="ref" v="87241"/>
+		<tag k="id" v="2014"/>
+		<tag k="ref" v="189193"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2015" version="3">
+		<nd ref="189"/>
+		<nd ref="190"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2015"/>
+		<tag k="ref" v="8766"/>
+		<tag k="id" v="2015"/>
+		<tag k="ref" v="189190"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2016" version="3">
+		<nd ref="190"/>
+		<nd ref="204"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2016"/>
+		<tag k="ref" v="6663"/>
+		<tag k="id" v="2016"/>
+		<tag k="ref" v="190204"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2017" version="3">
+		<nd ref="181"/>
+		<nd ref="191"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2017"/>
+		<tag k="ref" v="8956"/>
+		<tag k="id" v="2017"/>
+		<tag k="ref" v="181191"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2020" version="3">
+		<nd ref="183"/>
+		<nd ref="173"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2020"/>
+		<tag k="ref" v="90157"/>
+		<tag k="id" v="2020"/>
+		<tag k="ref" v="183173"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2021" version="3">
+		<nd ref="181"/>
+		<nd ref="229"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2021"/>
+		<tag k="ref" v="89247"/>
+		<tag k="id" v="2021"/>
+		<tag k="ref" v="181229"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2022" version="3">
+		<nd ref="181"/>
+		<nd ref="180"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2022"/>
+		<tag k="ref" v="8988"/>
+		<tag k="id" v="2022"/>
+		<tag k="ref" v="181180"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2023" version="3">
+		<nd ref="180"/>
+		<nd ref="175"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2023"/>
+		<tag k="ref" v="88106"/>
+		<tag k="id" v="2023"/>
+		<tag k="ref" v="180175"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2105" version="3">
+		<nd ref="104"/>
+		<nd ref="107"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2105"/>
+		<tag k="ref" v="220234"/>
+		<tag k="id" v="2105"/>
+		<tag k="ref" v="104107"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2114" version="3">
+		<nd ref="105"/>
+		<nd ref="103"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2114"/>
+		<tag k="ref" v="248233"/>
+		<tag k="id" v="2114"/>
+		<tag k="ref" v="105103"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2115" version="3">
+		<nd ref="103"/>
+		<nd ref="82"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2115"/>
+		<tag k="ref" v="233238"/>
+		<tag k="id" v="2115"/>
+		<tag k="ref" v="10382"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2116" version="3">
+		<nd ref="107"/>
+		<nd ref="115"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2116"/>
+		<tag k="ref" v="234240"/>
+		<tag k="id" v="2116"/>
+		<tag k="ref" v="107115"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2117" version="3">
+		<nd ref="107"/>
+		<nd ref="105"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2117"/>
+		<tag k="ref" v="234248"/>
+		<tag k="id" v="2117"/>
+		<tag k="ref" v="107105"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2118" version="3">
+		<nd ref="105"/>
+		<nd ref="102"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2118"/>
+		<tag k="ref" v="248239"/>
+		<tag k="id" v="2118"/>
+		<tag k="ref" v="105102"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2129" version="3">
+		<nd ref="170"/>
+		<nd ref="174"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2129"/>
+		<tag k="ref" v="1335"/>
+		<tag k="id" v="2129"/>
+		<tag k="ref" v="170174"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2130" version="3">
+		<nd ref="170"/>
+		<nd ref="158"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2130"/>
+		<tag k="ref" v="13249"/>
+		<tag k="id" v="2130"/>
+		<tag k="ref" v="170158"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2175" version="3">
+		<nd ref="128"/>
+		<nd ref="112"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2175"/>
+		<tag k="ref" v="213246"/>
+		<tag k="id" v="2175"/>
+		<tag k="ref" v="128112"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2179" version="3">
+		<nd ref="80"/>
+		<nd ref="71"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2179"/>
+		<tag k="ref" v="250160"/>
+		<tag k="id" v="2179"/>
+		<tag k="ref" v="8071"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2180" version="3">
+		<nd ref="158"/>
+		<nd ref="170"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2180"/>
+		<tag k="ref" v="24913"/>
+		<tag k="id" v="2180"/>
+		<tag k="ref" v="158170"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2181" version="3">
+		<nd ref="158"/>
+		<nd ref="222"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2181"/>
+		<tag k="ref" v="24995"/>
+		<tag k="id" v="2181"/>
+		<tag k="ref" v="158222"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2258" version="3">
+		<nd ref="160"/>
+		<nd ref="146"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2258"/>
+		<tag k="ref" v="8297"/>
+		<tag k="id" v="2258"/>
+		<tag k="ref" v="160146"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2259" version="3">
+		<nd ref="160"/>
+		<nd ref="138"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2259"/>
+		<tag k="ref" v="82214"/>
+		<tag k="id" v="2259"/>
+		<tag k="ref" v="160138"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2260" version="3">
+		<nd ref="185"/>
+		<nd ref="165"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2260"/>
+		<tag k="ref" v="24281"/>
+		<tag k="id" v="2260"/>
+		<tag k="ref" v="185165"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2262" version="3">
+		<nd ref="185"/>
+		<nd ref="194"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2262"/>
+		<tag k="ref" v="24229"/>
+		<tag k="id" v="2262"/>
+		<tag k="ref" v="185194"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2264" version="3">
+		<nd ref="129"/>
+		<nd ref="137"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2264"/>
+		<tag k="ref" v="124212"/>
+		<tag k="id" v="2264"/>
+		<tag k="ref" v="129137"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2265" version="3">
+		<nd ref="151"/>
+		<nd ref="240"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2265"/>
+		<tag k="ref" v="16199"/>
+		<tag k="id" v="2265"/>
+		<tag k="ref" v="151240"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2266" version="3">
+		<nd ref="129"/>
+		<nd ref="123"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2266"/>
+		<tag k="ref" v="124123"/>
+		<tag k="id" v="2266"/>
+		<tag k="ref" v="129123"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2267" version="3">
+		<nd ref="129"/>
+		<nd ref="111"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2267"/>
+		<tag k="ref" v="124196"/>
+		<tag k="id" v="2267"/>
+		<tag k="ref" v="129111"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2268" version="3">
+		<nd ref="137"/>
+		<nd ref="132"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2268"/>
+		<tag k="ref" v="212125"/>
+		<tag k="id" v="2268"/>
+		<tag k="ref" v="137132"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2269" version="3">
+		<nd ref="137"/>
+		<nd ref="129"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2269"/>
+		<tag k="ref" v="212124"/>
+		<tag k="id" v="2269"/>
+		<tag k="ref" v="137129"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2270" version="3">
+		<nd ref="151"/>
+		<nd ref="150"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2270"/>
+		<tag k="ref" v="16202"/>
+		<tag k="id" v="2270"/>
+		<tag k="ref" v="151150"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2271" version="3">
+		<nd ref="151"/>
+		<nd ref="137"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2271"/>
+		<tag k="ref" v="16212"/>
+		<tag k="id" v="2271"/>
+		<tag k="ref" v="151137"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2272" version="3">
+		<nd ref="137"/>
+		<nd ref="151"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2272"/>
+		<tag k="ref" v="21216"/>
+		<tag k="id" v="2272"/>
+		<tag k="ref" v="137151"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2273" version="3">
+		<nd ref="34"/>
+		<nd ref="31"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2273"/>
+		<tag k="ref" v="49225"/>
+		<tag k="id" v="2273"/>
+		<tag k="ref" v="3431"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2274" version="3">
+		<nd ref="34"/>
+		<nd ref="36"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2274"/>
+		<tag k="ref" v="49231"/>
+		<tag k="id" v="2274"/>
+		<tag k="ref" v="3436"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2275" version="3">
+		<nd ref="34"/>
+		<nd ref="37"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2275"/>
+		<tag k="ref" v="4948"/>
+		<tag k="id" v="2275"/>
+		<tag k="ref" v="3437"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2457" version="3">
+		<nd ref="119"/>
+		<nd ref="99"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2457"/>
+		<tag k="ref" v="9225"/>
+		<tag k="id" v="2457"/>
+		<tag k="ref" v="11999"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2458" version="3">
+		<nd ref="119"/>
+		<nd ref="125"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2458"/>
+		<tag k="ref" v="9291"/>
+		<tag k="id" v="2458"/>
+		<tag k="ref" v="119125"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2461" version="3">
+		<nd ref="211"/>
+		<nd ref="149"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2461"/>
+		<tag k="ref" v="9450"/>
+		<tag k="id" v="2461"/>
+		<tag k="ref" v="211149"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2462" version="3">
+		<nd ref="107"/>
+		<nd ref="104"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2462"/>
+		<tag k="ref" v="234220"/>
+		<tag k="id" v="2462"/>
+		<tag k="ref" v="107104"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2463" version="3">
+		<nd ref="107"/>
+		<nd ref="103"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2463"/>
+		<tag k="ref" v="234233"/>
+		<tag k="id" v="2463"/>
+		<tag k="ref" v="107103"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2464" version="3">
+		<nd ref="212"/>
+		<nd ref="150"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2464"/>
+		<tag k="ref" v="203202"/>
+		<tag k="id" v="2464"/>
+		<tag k="ref" v="212150"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2465" version="3">
+		<nd ref="212"/>
+		<nd ref="157"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2465"/>
+		<tag k="ref" v="20396"/>
+		<tag k="id" v="2465"/>
+		<tag k="ref" v="212157"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2468" version="3">
+		<nd ref="213"/>
+		<nd ref="127"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2468"/>
+		<tag k="ref" v="176178"/>
+		<tag k="id" v="2468"/>
+		<tag k="ref" v="213127"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2469" version="3">
+		<nd ref="213"/>
+		<nd ref="110"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2469"/>
+		<tag k="ref" v="176175"/>
+		<tag k="id" v="2469"/>
+		<tag k="ref" v="213110"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2470" version="3">
+		<nd ref="193"/>
+		<nd ref="202"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2470"/>
+		<tag k="ref" v="24164"/>
+		<tag k="id" v="2470"/>
+		<tag k="ref" v="193202"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2471" version="3">
+		<nd ref="193"/>
+		<nd ref="189"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2471"/>
+		<tag k="ref" v="24187"/>
+		<tag k="id" v="2471"/>
+		<tag k="ref" v="193189"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2472" version="3">
+		<nd ref="214"/>
+		<nd ref="141"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2472"/>
+		<tag k="ref" v="20193"/>
+		<tag k="id" v="2472"/>
+		<tag k="ref" v="214141"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2473" version="3">
+		<nd ref="214"/>
+		<nd ref="130"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2473"/>
+		<tag k="ref" v="201193"/>
+		<tag k="id" v="2473"/>
+		<tag k="ref" v="214130"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2476" version="3">
+		<nd ref="215"/>
+		<nd ref="197"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2476"/>
+		<tag k="ref" v="170235"/>
+		<tag k="id" v="2476"/>
+		<tag k="ref" v="215197"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2477" version="3">
+		<nd ref="216"/>
+		<nd ref="132"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2477"/>
+		<tag k="ref" v="206125"/>
+		<tag k="id" v="2477"/>
+		<tag k="ref" v="216132"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2478" version="3">
+		<nd ref="216"/>
+		<nd ref="150"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2478"/>
+		<tag k="ref" v="206202"/>
+		<tag k="id" v="2478"/>
+		<tag k="ref" v="216150"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2479" version="3">
+		<nd ref="217"/>
+		<nd ref="65"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2479"/>
+		<tag k="ref" v="122132"/>
+		<tag k="id" v="2479"/>
+		<tag k="ref" v="21765"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2480" version="3">
+		<nd ref="217"/>
+		<nd ref="89"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2480"/>
+		<tag k="ref" v="122120"/>
+		<tag k="id" v="2480"/>
+		<tag k="ref" v="21789"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2483" version="3">
+		<nd ref="219"/>
+		<nd ref="197"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2483"/>
+		<tag k="ref" v="15235"/>
+		<tag k="id" v="2483"/>
+		<tag k="ref" v="219197"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2489" version="3">
+		<nd ref="139"/>
+		<nd ref="131"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2489"/>
+		<tag k="ref" v="184179"/>
+		<tag k="id" v="2489"/>
+		<tag k="ref" v="139131"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2490" version="3">
+		<nd ref="139"/>
+		<nd ref="142"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2490"/>
+		<tag k="ref" v="184101"/>
+		<tag k="id" v="2490"/>
+		<tag k="ref" v="139142"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2491" version="3">
+		<nd ref="220"/>
+		<nd ref="52"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2491"/>
+		<tag k="ref" v="139209"/>
+		<tag k="id" v="2491"/>
+		<tag k="ref" v="22052"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2492" version="3">
+		<nd ref="112"/>
+		<nd ref="128"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2492"/>
+		<tag k="ref" v="246213"/>
+		<tag k="id" v="2492"/>
+		<tag k="ref" v="112128"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2493" version="3">
+		<nd ref="112"/>
+		<nd ref="96"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2493"/>
+		<tag k="ref" v="246245"/>
+		<tag k="id" v="2493"/>
+		<tag k="ref" v="11296"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2496" version="3">
+		<nd ref="28"/>
+		<nd ref="33"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2496"/>
+		<tag k="ref" v="92"/>
+		<tag k="id" v="2496"/>
+		<tag k="ref" v="2833"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2497" version="3">
+		<nd ref="28"/>
+		<nd ref="8"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2497"/>
+		<tag k="ref" v="912"/>
+		<tag k="id" v="2497"/>
+		<tag k="ref" v="288"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2498" version="3">
+		<nd ref="138"/>
+		<nd ref="160"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2498"/>
+		<tag k="ref" v="21482"/>
+		<tag k="id" v="2498"/>
+		<tag k="ref" v="138160"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2499" version="3">
+		<nd ref="138"/>
+		<nd ref="128"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2499"/>
+		<tag k="ref" v="214213"/>
+		<tag k="id" v="2499"/>
+		<tag k="ref" v="138128"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2500" version="3">
+		<nd ref="221"/>
+		<nd ref="122"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2500"/>
+		<tag k="ref" v="191192"/>
+		<tag k="id" v="2500"/>
+		<tag k="ref" v="221122"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2501" version="3">
+		<nd ref="221"/>
+		<nd ref="118"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2501"/>
+		<tag k="ref" v="191190"/>
+		<tag k="id" v="2501"/>
+		<tag k="ref" v="221118"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2502" version="3">
+		<nd ref="222"/>
+		<nd ref="158"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2502"/>
+		<tag k="ref" v="95249"/>
+		<tag k="id" v="2502"/>
+		<tag k="ref" v="222158"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2503" version="3">
+		<nd ref="223"/>
+		<nd ref="89"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2503"/>
+		<tag k="ref" v="121120"/>
+		<tag k="id" v="2503"/>
+		<tag k="ref" v="22389"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2504" version="3">
+		<nd ref="223"/>
+		<nd ref="106"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2504"/>
+		<tag k="ref" v="121197"/>
+		<tag k="id" v="2504"/>
+		<tag k="ref" v="223106"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2505" version="3">
+		<nd ref="120"/>
+		<nd ref="113"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2505"/>
+		<tag k="ref" v="17419"/>
+		<tag k="id" v="2505"/>
+		<tag k="ref" v="120113"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2506" version="3">
+		<nd ref="120"/>
+		<nd ref="126"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2506"/>
+		<tag k="ref" v="174173"/>
+		<tag k="id" v="2506"/>
+		<tag k="ref" v="120126"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2507" version="3">
+		<nd ref="224"/>
+		<nd ref="94"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2507"/>
+		<tag k="ref" v="188108"/>
+		<tag k="id" v="2507"/>
+		<tag k="ref" v="22494"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2508" version="3">
+		<nd ref="224"/>
+		<nd ref="116"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2508"/>
+		<tag k="ref" v="18845"/>
+		<tag k="id" v="2508"/>
+		<tag k="ref" v="224116"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2510" version="3">
+		<nd ref="164"/>
+		<nd ref="146"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2510"/>
+		<tag k="ref" v="9897"/>
+		<tag k="id" v="2510"/>
+		<tag k="ref" v="164146"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2511" version="3">
+		<nd ref="203"/>
+		<nd ref="208"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2511"/>
+		<tag k="ref" v="205147"/>
+		<tag k="id" v="2511"/>
+		<tag k="ref" v="203208"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2512" version="3">
+		<nd ref="203"/>
+		<nd ref="201"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2512"/>
+		<tag k="ref" v="205204"/>
+		<tag k="id" v="2512"/>
+		<tag k="ref" v="203201"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2513" version="3">
+		<nd ref="82"/>
+		<nd ref="75"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2513"/>
+		<tag k="ref" v="238237"/>
+		<tag k="id" v="2513"/>
+		<tag k="ref" v="8275"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2514" version="3">
+		<nd ref="82"/>
+		<nd ref="103"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2514"/>
+		<tag k="ref" v="238233"/>
+		<tag k="id" v="2514"/>
+		<tag k="ref" v="82103"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2521" version="3">
+		<nd ref="2"/>
+		<nd ref="1"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2521"/>
+		<tag k="ref" v="134232"/>
+		<tag k="id" v="2521"/>
+		<tag k="ref" v="21"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2524" version="3">
+		<nd ref="29"/>
+		<nd ref="34"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2524"/>
+		<tag k="ref" v="22649"/>
+		<tag k="id" v="2524"/>
+		<tag k="ref" v="2934"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2525" version="3">
+		<nd ref="225"/>
+		<nd ref="106"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2525"/>
+		<tag k="ref" v="126197"/>
+		<tag k="id" v="2525"/>
+		<tag k="ref" v="225106"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2526" version="3">
+		<nd ref="225"/>
+		<nd ref="123"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2526"/>
+		<tag k="ref" v="126123"/>
+		<tag k="id" v="2526"/>
+		<tag k="ref" v="225123"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2530" version="3">
+		<nd ref="226"/>
+		<nd ref="159"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2530"/>
+		<tag k="ref" v="1836"/>
+		<tag k="id" v="2530"/>
+		<tag k="ref" v="226159"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2531" version="3">
+		<nd ref="226"/>
+		<nd ref="163"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2531"/>
+		<tag k="ref" v="18113"/>
+		<tag k="id" v="2531"/>
+		<tag k="ref" v="226163"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2532" version="3">
+		<nd ref="227"/>
+		<nd ref="174"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2532"/>
+		<tag k="ref" v="15835"/>
+		<tag k="id" v="2532"/>
+		<tag k="ref" v="227174"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2533" version="3">
+		<nd ref="227"/>
+		<nd ref="173"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2533"/>
+		<tag k="ref" v="158157"/>
+		<tag k="id" v="2533"/>
+		<tag k="ref" v="227173"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2537" version="3">
+		<nd ref="228"/>
+		<nd ref="143"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2537"/>
+		<tag k="ref" v="10043"/>
+		<tag k="id" v="2537"/>
+		<tag k="ref" v="228143"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2538" version="3">
+		<nd ref="102"/>
+		<nd ref="97"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2538"/>
+		<tag k="ref" v="239224"/>
+		<tag k="id" v="2538"/>
+		<tag k="ref" v="10297"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2539" version="3">
+		<nd ref="102"/>
+		<nd ref="105"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2539"/>
+		<tag k="ref" v="239248"/>
+		<tag k="id" v="2539"/>
+		<tag k="ref" v="102105"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2544" version="3">
+		<nd ref="147"/>
+		<nd ref="153"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2544"/>
+		<tag k="ref" v="152153"/>
+		<tag k="id" v="2544"/>
+		<tag k="ref" v="147153"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2545" version="3">
+		<nd ref="147"/>
+		<nd ref="144"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2545"/>
+		<tag k="ref" v="15244"/>
+		<tag k="id" v="2545"/>
+		<tag k="ref" v="147144"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2546" version="3">
+		<nd ref="229"/>
+		<nd ref="181"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2546"/>
+		<tag k="ref" v="24789"/>
+		<tag k="id" v="2546"/>
+		<tag k="ref" v="229181"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2557" version="3">
+		<nd ref="115"/>
+		<nd ref="107"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2557"/>
+		<tag k="ref" v="240234"/>
+		<tag k="id" v="2557"/>
+		<tag k="ref" v="115107"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2559" version="3">
+		<nd ref="176"/>
+		<nd ref="192"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2559"/>
+		<tag k="ref" v="10230"/>
+		<tag k="id" v="2559"/>
+		<tag k="ref" v="176192"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2560" version="3">
+		<nd ref="176"/>
+		<nd ref="167"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2560"/>
+		<tag k="ref" v="10299"/>
+		<tag k="id" v="2560"/>
+		<tag k="ref" v="176167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2561" version="3">
+		<nd ref="230"/>
+		<nd ref="36"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2561"/>
+		<tag k="ref" v="133231"/>
+		<tag k="id" v="2561"/>
+		<tag k="ref" v="23036"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2562" version="3">
+		<nd ref="230"/>
+		<nd ref="54"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2562"/>
+		<tag k="ref" v="133131"/>
+		<tag k="id" v="2562"/>
+		<tag k="ref" v="23054"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2564" version="3">
+		<nd ref="231"/>
+		<nd ref="19"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2564"/>
+		<tag k="ref" v="165163"/>
+		<tag k="id" v="2564"/>
+		<tag k="ref" v="23119"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2566" version="3">
+		<nd ref="232"/>
+		<nd ref="19"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2566"/>
+		<tag k="ref" v="164163"/>
+		<tag k="id" v="2566"/>
+		<tag k="ref" v="23219"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2571" version="3">
+		<nd ref="233"/>
+		<nd ref="64"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2571"/>
+		<tag k="ref" v="194195"/>
+		<tag k="id" v="2571"/>
+		<tag k="ref" v="23364"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2572" version="3">
+		<nd ref="233"/>
+		<nd ref="87"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2572"/>
+		<tag k="ref" v="194189"/>
+		<tag k="id" v="2572"/>
+		<tag k="ref" v="23387"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2573" version="3">
+		<nd ref="234"/>
+		<nd ref="122"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2573"/>
+		<tag k="ref" v="180192"/>
+		<tag k="id" v="2573"/>
+		<tag k="ref" v="234122"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2574" version="3">
+		<nd ref="234"/>
+		<nd ref="125"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2574"/>
+		<tag k="ref" v="18091"/>
+		<tag k="id" v="2574"/>
+		<tag k="ref" v="234125"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2579" version="3">
+		<nd ref="235"/>
+		<nd ref="152"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2579"/>
+		<tag k="ref" v="20051"/>
+		<tag k="id" v="2579"/>
+		<tag k="ref" v="235152"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2580" version="3">
+		<nd ref="235"/>
+		<nd ref="163"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2580"/>
+		<tag k="ref" v="200113"/>
+		<tag k="id" v="2580"/>
+		<tag k="ref" v="235163"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2585" version="3">
+		<nd ref="77"/>
+		<nd ref="76"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2585"/>
+		<tag k="ref" v="18777"/>
+		<tag k="id" v="2585"/>
+		<tag k="ref" v="7776"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2586" version="3">
+		<nd ref="77"/>
+		<nd ref="78"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2586"/>
+		<tag k="ref" v="187186"/>
+		<tag k="id" v="2586"/>
+		<tag k="ref" v="7778"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2587" version="3">
+		<nd ref="236"/>
+		<nd ref="101"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2587"/>
+		<tag k="ref" v="118115"/>
+		<tag k="id" v="2587"/>
+		<tag k="ref" v="236101"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2588" version="3">
+		<nd ref="236"/>
+		<nd ref="94"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2588"/>
+		<tag k="ref" v="118108"/>
+		<tag k="id" v="2588"/>
+		<tag k="ref" v="23694"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2589" version="3">
+		<nd ref="166"/>
+		<nd ref="167"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2589"/>
+		<tag k="ref" v="14599"/>
+		<tag k="id" v="2589"/>
+		<tag k="ref" v="166167"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2590" version="3">
+		<nd ref="166"/>
+		<nd ref="165"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2590"/>
+		<tag k="ref" v="14581"/>
+		<tag k="id" v="2590"/>
+		<tag k="ref" v="166165"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2591" version="3">
+		<nd ref="42"/>
+		<nd ref="45"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2591"/>
+		<tag k="ref" v="103142"/>
+		<tag k="id" v="2591"/>
+		<tag k="ref" v="4245"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2592" version="3">
+		<nd ref="237"/>
+		<nd ref="171"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2592"/>
+		<tag k="ref" v="104155"/>
+		<tag k="id" v="2592"/>
+		<tag k="ref" v="237171"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2593" version="3">
+		<nd ref="175"/>
+		<nd ref="180"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2593"/>
+		<tag k="ref" v="10688"/>
+		<tag k="id" v="2593"/>
+		<tag k="ref" v="175180"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2595" version="3">
+		<nd ref="238"/>
+		<nd ref="136"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2595"/>
+		<tag k="ref" v="10740"/>
+		<tag k="id" v="2595"/>
+		<tag k="ref" v="238136"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2596" version="3">
+		<nd ref="50"/>
+		<nd ref="41"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2596"/>
+		<tag k="ref" v="14176"/>
+		<tag k="id" v="2596"/>
+		<tag k="ref" v="5041"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2597" version="3">
+		<nd ref="50"/>
+		<nd ref="53"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2597"/>
+		<tag k="ref" v="14169"/>
+		<tag k="id" v="2597"/>
+		<tag k="ref" v="5053"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2600" version="3">
+		<nd ref="240"/>
+		<nd ref="151"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2600"/>
+		<tag k="ref" v="19916"/>
+		<tag k="id" v="2600"/>
+		<tag k="ref" v="240151"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2601" version="3">
+		<nd ref="240"/>
+		<nd ref="152"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2601"/>
+		<tag k="ref" v="19951"/>
+		<tag k="id" v="2601"/>
+		<tag k="ref" v="240152"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2604" version="3">
+		<nd ref="148"/>
+		<nd ref="155"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2604"/>
+		<tag k="ref" v="15631"/>
+		<tag k="id" v="2604"/>
+		<tag k="ref" v="148155"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2605" version="3">
+		<nd ref="148"/>
+		<nd ref="142"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2605"/>
+		<tag k="ref" v="156101"/>
+		<tag k="id" v="2605"/>
+		<tag k="ref" v="148142"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2606" version="3">
+		<nd ref="81"/>
+		<nd ref="83"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2606"/>
+		<tag k="ref" v="183181"/>
+		<tag k="id" v="2606"/>
+		<tag k="ref" v="8183"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2607" version="3">
+		<nd ref="81"/>
+		<nd ref="78"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2607"/>
+		<tag k="ref" v="183186"/>
+		<tag k="id" v="2607"/>
+		<tag k="ref" v="8178"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2608" version="3">
+		<nd ref="68"/>
+		<nd ref="69"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2608"/>
+		<tag k="ref" v="23639"/>
+		<tag k="id" v="2608"/>
+		<tag k="ref" v="6869"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2609" version="3">
+		<nd ref="68"/>
+		<nd ref="63"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2609"/>
+		<tag k="ref" v="23668"/>
+		<tag k="id" v="2609"/>
+		<tag k="ref" v="6863"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2610" version="3">
+		<nd ref="88"/>
+		<nd ref="83"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2610"/>
+		<tag k="ref" v="135181"/>
+		<tag k="id" v="2610"/>
+		<tag k="ref" v="8883"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2611" version="3">
+		<nd ref="88"/>
+		<nd ref="91"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2611"/>
+		<tag k="ref" v="13526"/>
+		<tag k="id" v="2611"/>
+		<tag k="ref" v="8891"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2612" version="3">
+		<nd ref="242"/>
+		<nd ref="173"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2612"/>
+		<tag k="ref" v="114157"/>
+		<tag k="id" v="2612"/>
+		<tag k="ref" v="242173"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2614" version="3">
+		<nd ref="66"/>
+		<nd ref="55"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2614"/>
+		<tag k="ref" v="14327"/>
+		<tag k="id" v="2614"/>
+		<tag k="ref" v="6655"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2616" version="3">
+		<nd ref="75"/>
+		<nd ref="66"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2616"/>
+		<tag k="ref" v="237143"/>
+		<tag k="id" v="2616"/>
+		<tag k="ref" v="7566"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2618" version="3">
+		<nd ref="71"/>
+		<nd ref="75"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2618"/>
+		<tag k="ref" v="160237"/>
+		<tag k="id" v="2618"/>
+		<tag k="ref" v="7175"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2620" version="3">
+		<nd ref="82"/>
+		<nd ref="75"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2620"/>
+		<tag k="ref" v="238237"/>
+		<tag k="id" v="2620"/>
+		<tag k="ref" v="8275"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2622" version="3">
+		<nd ref="97"/>
+		<nd ref="80"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2622"/>
+		<tag k="ref" v="224250"/>
+		<tag k="id" v="2622"/>
+		<tag k="ref" v="9780"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2624" version="3">
+		<nd ref="182"/>
+		<nd ref="183"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2624"/>
+		<tag k="ref" v="15990"/>
+		<tag k="id" v="2624"/>
+		<tag k="ref" v="182183"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2626" version="3">
+		<nd ref="110"/>
+		<nd ref="79"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2626"/>
+		<tag k="ref" v="175230"/>
+		<tag k="id" v="2626"/>
+		<tag k="ref" v="11079"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2628" version="3">
+		<nd ref="184"/>
+		<nd ref="177"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2628"/>
+		<tag k="ref" v="223222"/>
+		<tag k="id" v="2628"/>
+		<tag k="ref" v="184177"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2630" version="3">
+		<nd ref="186"/>
+		<nd ref="177"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2630"/>
+		<tag k="ref" v="79222"/>
+		<tag k="id" v="2630"/>
+		<tag k="ref" v="186177"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2632" version="3">
+		<nd ref="208"/>
+		<nd ref="177"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2632"/>
+		<tag k="ref" v="147222"/>
+		<tag k="id" v="2632"/>
+		<tag k="ref" v="208177"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2634" version="3">
+		<nd ref="202"/>
+		<nd ref="208"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2634"/>
+		<tag k="ref" v="64147"/>
+		<tag k="id" v="2634"/>
+		<tag k="ref" v="202208"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2636" version="3">
+		<nd ref="229"/>
+		<nd ref="162"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2636"/>
+		<tag k="ref" v="24734"/>
+		<tag k="id" v="2636"/>
+		<tag k="ref" v="229162"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2638" version="3">
+		<nd ref="173"/>
+		<nd ref="229"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2638"/>
+		<tag k="ref" v="157247"/>
+		<tag k="id" v="2638"/>
+		<tag k="ref" v="173229"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2640" version="3">
+		<nd ref="172"/>
+		<nd ref="229"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2640"/>
+		<tag k="ref" v="105247"/>
+		<tag k="id" v="2640"/>
+		<tag k="ref" v="172229"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2642" version="3">
+		<nd ref="232"/>
+		<nd ref="32"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2642"/>
+		<tag k="ref" v="164227"/>
+		<tag k="id" v="2642"/>
+		<tag k="ref" v="23232"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2644" version="3">
+		<nd ref="93"/>
+		<nd ref="96"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2644"/>
+		<tag k="ref" v="219245"/>
+		<tag k="id" v="2644"/>
+		<tag k="ref" v="9396"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2646" version="3">
+		<nd ref="202"/>
+		<nd ref="208"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2646"/>
+		<tag k="ref" v="64147"/>
+		<tag k="id" v="2646"/>
+		<tag k="ref" v="202208"/>
+		<tag k="dir" v=""/>
+	</way>
+	<way id="2648" version="3">
+		<nd ref="229"/>
+		<nd ref="162"/>
+		<tag k="dir" v=""/>
+		<tag k="id" v="2648"/>
+		<tag k="ref" v="24734"/>
+		<tag k="id" v="2648"/>
+		<tag k="ref" v="229162"/>
+		<tag k="dir" v=""/>
+	</way>
+</osm>
